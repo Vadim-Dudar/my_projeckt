@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-URL = 'https://dou.ua/forums/topic/33001/'
+URL = 'https://dou.ua/forums/topic/33000/'
 HEADERS = {
    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36',
    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
@@ -25,6 +25,7 @@ def get_soup(html):
          'text': comment.find('div', class_='comment_text b-typo').get_text().replace('\xa0' and '\n', ' '),
       })
    print(comments)
+
 
 def parce():
    html = get_html(URL)
