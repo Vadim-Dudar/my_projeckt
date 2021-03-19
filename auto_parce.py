@@ -13,6 +13,15 @@ def get_html(url, params=None):
    return r
 
 
+def get_pages_count(html):
+   soup = BeautifulSoup(html, 'html.parser')
+   counter = soup.find_all('span', class_='mhide')
+   if counter != None:
+      return int(counter[-1].get_text())
+   else:
+      return 1
+
+
 def get_soup(html):
    soup = BeautifulSoup(html, 'html.parser')
    content = soup.find_all('div', class_='proposition')
@@ -24,13 +33,15 @@ def get_soup(html):
          'price': car.find('span', class_='green bold size22').get_text().strip(),
          'volume': car.find('div', class_='proposition_information').get_text().strip(),
       })
-   print(cars)
+   return(cars)
 
 
 def parce():
    html = get_html(URL)
    if html.status_code == 200:
-      get_soup(html.text)
+      cars = get_soup(html.text)
+      i = get_pages_count(html.text)
+      print(i)
    else:
       print('Something wrong!')
    
