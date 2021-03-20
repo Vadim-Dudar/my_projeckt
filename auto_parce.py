@@ -1,8 +1,9 @@
 import requests
+import sys
 from bs4 import BeautifulSoup
 from openpyxl import Workbook
 
-URL = 'https://auto.ria.com/uk/newauto/marka-hyundai/'
+URL = 'https://auto.ria.com/uk/newauto/search/'
 HEADERS = {
    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36',
    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
@@ -44,7 +45,7 @@ def do_xlsx(data):
       ws[f'A{index+1}'] = content['name']
       ws[f'B{index+1}'] = content['price']
       ws[f'C{index+1}'] = content['volume']
-   wb.save("sample.xlsx")
+   wb.save("sample_1.xlsx")
 
 
 def parce():
@@ -53,7 +54,8 @@ def parce():
       cars = []
       counter = get_pages_count(html.text)
       for page in range(1, counter + 1):
-         print(f'Wait, {page}/{counter}')
+         # print(f'\rWait, {page}/{counter}')
+         sys.stdout.write(f'\rWait, {page}/{counter}')
          html = get_html(URL, params={'page': page})
          cars.extend(get_soup(html.text))
       do_xlsx(cars)
