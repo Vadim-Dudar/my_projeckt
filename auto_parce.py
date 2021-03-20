@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+from openpyxl import Workbook
 
 URL = 'https://auto.ria.com/uk/newauto/marka-hyundai/'
 HEADERS = {
@@ -16,7 +17,7 @@ def get_html(url, params=None):
 def get_pages_count(html):
    soup = BeautifulSoup(html, 'html.parser')
    counter = soup.find_all('span', class_='mhide')
-   if counter != None:
+   if len(counter) >= 2:
       return int(counter[-1].get_text())
    else:
       return 1
@@ -36,12 +37,26 @@ def get_soup(html):
    return(cars)
 
 
+def do_xlsx(data):
+   wb = Workbook()
+   ws = wb.active
+   for index, content in enumerate(data):
+      ws[f'A{index+1}'] = content['name']
+      ws[f'B{index+1}'] = content['price']
+      ws[f'C{index+1}'] = content['volume']
+   wb.save("sample.xlsx")
+
+
 def parce():
    html = get_html(URL)
    if html.status_code == 200:
-      cars = get_soup(html.text)
-      i = get_pages_count(html.text)
-      print(i)
+      cars = []
+      counter = get_pages_count(html.text)
+      for page in range(1, counter + 1):
+         print(f'Wait, {page}/{counter}')
+         html = get_html(URL, params={'page': page})
+         cars.extend(get_soup(html.text))
+      do_xlsx(cars)
    else:
       print('Something wrong!')
    
