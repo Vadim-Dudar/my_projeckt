@@ -17,7 +17,7 @@ def get_html(url, params=None):
 
 def get_pages_count(html):
    soup = BeautifulSoup(html, 'html.parser')
-   counter = soup.find_all('a', class_='page-link')
+   counter = soup.find_all('span', class_='page-item mhide')
    if len(counter) >= 2:
       return int(counter[-1].get_text().replace(' ', ''))
    else:
@@ -56,13 +56,10 @@ def parce():
       cars = []
       counter = get_pages_count(html.text)
       for page in range(1, counter+1):
-         # print(f'\rWait, {page}/{counter}')
          sys.stdout.write(f'\rWait {page}/{counter}')
          html = get_html(URL, params={'page': page})
          cars.extend(get_soup(html.text))
       do_xlsx(cars)
-      print(cars)
-      print(len(cars))
    else:
       print('Something wrong!')
    
