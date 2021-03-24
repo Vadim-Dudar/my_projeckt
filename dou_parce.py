@@ -43,6 +43,9 @@ class Parce():
             self.json(content)
         else:
             print('Something wrong🤷‍♂️')
+    
+    def parce_page(self, page):
+        pass
 
 
 dou = Parce('https://dou.ua/forums/topic/33060/')
