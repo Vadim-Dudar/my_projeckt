@@ -1,0 +1,4285 @@
+<!DOCTYPE html>
+<!-- saved from url=(0034)https://dou.ua/forums/topic/33060/ -->
+<html lang="ru" xmlns:og="http://ogp.me/ns#" class="is_desktop"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+
+	<title>Справедливый notice period в&nbsp;аутстаффинге | DOU</title>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+<meta name="description" content="Давно не был на рынке труда, много проходил собеседований, наконец-то получил первый офер и шаблон договора ФОП, в аутстаффинге. Далее была классическая ситуация - было серьёзное намерение уйти с текущей работы по модели аутстаффинга из-за денег, выкатили">
+
+
+
+		<meta property="fb:app_id" content="174858425907105">
+
+	<meta property="og:title" content="Справедливый notice period в аутстаффинге">
+	<meta property="og:type" content="article">
+	<meta property="og:url" content="https://dou.ua/forums/topic/33060/">
+	<meta property="og:site_name" content="ДОУ">
+	<meta property="og:image" content="https://s.dou.ua/img/avatars/200x200_anon.png">
+
+
+		<meta property="og:description" content="Давно не был на рынке труда, много проходил собеседований, наконец-то получил первый офер и шаблон договора ФОП, в аутстаффинге. Далее была классическая ситуация - было серьёзное намерение уйти с текущей работы по модели аутстаффинга из-за денег, выкатили">
+		<meta name="twitter:description" content="Давно не был на рынке труда, много проходил собеседований, наконец-то получил первый офер и шаблон договора ФОП, в аутстаффинге. Далее была классическая ситуация - было серьёзное намерение уйти с текущей работы по модели аутстаффинга из-за денег, выкатили">
+
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="@devua">
+	<meta name="twitter:url" content="https://dou.ua/forums/topic/33060/">
+	<meta name="twitter:title" content="Справедливый notice period в аутстаффинге">
+	<meta name="twitter:image" content="https://s.dou.ua/img/avatars/200x200_anon.png">
+
+	<link rel="image_src" href="https://s.dou.ua/img/avatars/200x200_anon.png">
+
+
+	<link rel="icon" sizes="192x192" href="https://s.dou.ua/assets/img/icon.png">
+	<link rel="shortcut icon" sizes="16x16" href="https://s.dou.ua/assets/img/favicon.ico">
+	<link rel="shortcut icon" type="image/png" sizes="32x32" href="https://s.dou.ua/assets/img/favicon32.png">
+
+		<link rel="alternate" type="application/rss+xml" title="Лента" href="https://dou.ua/feed/">
+
+
+	
+
+	<link type="text/css" rel="stylesheet" href="./Справедливый notice period в аутстаффинге _ DOU_files/built.v2286.57c34fe.css">
+
+
+		<link type="text/css" rel="stylesheet" href="./Справедливый notice period в аутстаффинге _ DOU_files/built.v2286.9dc82db.css">
+
+
+
+
+	<script>
+		window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};
+		ga('create', 'UA-168613-2', 'auto');
+		ga('set', 'transport', 'beacon');
+		ga('set', 'dimension1', 'Visitor');
+		ga('set', 'dimension2', 'uk');
+		ga('set', 'dimension3', '' + (window.devicePixelRatio >= 1.1));
+		ga('require', 'outboundLinkTracker');
+		ga('send', 'pageview');
+	</script>
+	<script async="" src="./Справедливый notice period в аутстаффинге _ DOU_files/analytics.js.завантаження"></script>
+
+	<script>
+		var impressions = [];
+	</script>
+</head>
+
+<body class="">
+
+	<div class="g-page">
+
+
+		<div id="topError" class="top-msg"></div>
+
+		<style>#topinfo{background: #01DF01;color:#000;}
+#topinfo a {color:#000}
+#topinfo a:hover {color:#000;}</style>
+
+	<div class="topinfo" id="topinfo">
+		Безкоштовний курс Java + DevOps від Parimatch Tech Academy. <a href="https://dou.ua/goto/top/?id=477&amp;lnk=1"><strong>Зареєструйся до 14 квітня!</strong></a>
+		<a href="https://dou.ua/forums/topic/33060/#" class="close" id="topinfo-close">✖</a>
+	</div>
+	<script>
+		impressions.push({'topinfo': '477'});
+	</script>
+
+
+
+
+
+
+<header class="b-head">
+
+	<ul>
+		<li class="logo"><a href="https://dou.ua/"></a></li>
+			<li class="m-hide"><a href="https://dou.ua/">Головна</a></li>
+			<li><a href="https://dou.ua/forums/" class="sel">Форум</a></li>
+			<li><a href="https://dou.ua/lenta/">Стрічка</a></li>
+			<li><a href="https://jobs.dou.ua/salaries/">Зарплати</a></li>
+			<li><a href="https://jobs.dou.ua/">Робота</a></li>
+			<li class="m-last"><a href="https://dou.ua/calendar/">Календар</a></li>
+
+			<li class="m-hide highlighted"><a href="https://dou.ua/goto/youtube">YouTube</a></li>
+
+
+
+
+
+
+						<li class="mini-header">
+							<a rel="nofollow" href="https://dou.ua/goto/?id=437&amp;mini" style="background-image:url(&#39;//s.dou.ua/mini-headers/Referral_1.png&#39;)" target="_blank"></a>
+							<style>
+.b-sub-head-n .wrap{padding-top:28px!important;}
+.b-head li.mini-header a {height:67px;background-size:205px 136px;width:205px;border-radius: 0 0 12px 12px;}
+</style>
+						</li>
+						<script>
+							impressions.push({'mini_header': '437'});
+						</script>
+	</ul>
+
+	<div class="right-part">
+			<form class="search" action="https://dou.ua/search/" method="get">
+				<input class="inp" id="txtGlobalSearch" type="text" placeholder="пошук" name="q">
+			</form>
+
+			<a id="login-link" href="javascript:;">Вхід та реєстрація</a>
+	</div>
+</header>
+				<div class="max-header" id="max-header-adv-id">
+					<a rel="nofollow" href="https://dou.ua/goto/?id=646&amp;maxi" target="_blank"><img src="./Справедливый notice period в аутстаффинге _ DOU_files/Bringg_is_Hiring_4.jpg" srcset="https://s.dou.ua/storage-files/Bringg_is_Hiring_4_1.jpg 1.2x"></a>
+					<div class="close m-hide" id="max-header-close-id">×<span>Закрити</span></div>
+
+					
+				</div>
+
+				<script>
+					impressions.push({'max_header': '646'});
+				</script>
+
+	<div class="l-content m-content">
+			<div class="colgroup">
+				<div class="col col2"></div>
+				<div class="col col70"></div>
+				<div class="col col20px"></div>
+				<div class="col col-auto"></div>
+				<div class="col col20px"></div>
+			</div>
+
+		<div class="l-content-wrap">
+				<div class="cell"></div>
+
+			<div class="cell g-right-shadowed mobtab-maincol">
+	<script>
+		impressions.push({'pageviews-content': 82956});
+	</script>
+
+	<div class="b-post-info">
+				<a href="https://dou.ua/forums/work/" class="topic">Про роботу</a> ·
+
+			<span class="date">20 березня<span class="m-hide">, 9:49</span></span>
+
+		<span class="pageviews" title="Кількість переглядів">3004</span>
+
+		<div class="author">
+				<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_anon.png" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_anon.png 1.1x">
+			<div class="name">
+				<a href="https://dou.ua/users/andrew_d/" target="_blank">Andrew Frolov</a>
+
+			</div>
+		</div>
+	</div>
+
+	<article class="b-typo" lang="ru">
+		<h1>Справедливый notice period в&nbsp;аутстаффинге</h1>
+
+
+		<p>Давно не&nbsp;был на&nbsp;рынке труда, много проходил собеседований, наконец-то получил первый офер и&nbsp;шаблон договора ФОП, в&nbsp;аутстаффинге. Далее была классическая ситуация&nbsp;— было серьёзное намерение уйти с&nbsp;текущей работы по&nbsp;модели аутстаффинга из-за денег, выкатили контрофер, причём в&nbsp;итоге на&nbsp;ту&nbsp;сумму, что указал как минимально приемлемую и&nbsp;без доп. условий и&nbsp;обещанпий много работать. Контрофер принял, но&nbsp;HR с&nbsp;конторы с&nbsp;вакансией не&nbsp;унимается: начали предлагать сумму даже больше контрофера, но&nbsp;я&nbsp;для себя решил, что «тише едешь&nbsp;— дальше будешь».</p>
+
+<p>Что меня оттолкнуло от&nbsp;новой конторы? Мне показалось, предлагают кабальный контракт ФОП.&nbsp;Т.е.&nbsp;я&nbsp;очень-очень нужен, но&nbsp;в&nbsp;течение первых 5(!) дней работы менеджер конторы, где фактически буду работать, оставляет право отказаться от&nbsp;меня за&nbsp;1&nbsp;день. Далее, в&nbsp;течение <nobr>3-месячного</nobr> испытательного срока&nbsp;— notice period составляет обоюдно 14&nbsp;дней. В&nbsp;основной период сотрудничества предлагают notice period такой: со&nbsp;стороны аутстафф-посредника&nbsp;— 30&nbsp;дней, а&nbsp;со&nbsp;стороны меня, исполнителя&nbsp;— предлагали 60&nbsp;дней. Я&nbsp;попросил сократить этот срок, несколько сократили, но&nbsp;всё равно оставили многовато, как на&nbsp;мой взгляд. При этом есть штраф в&nbsp;виде 1&nbsp;месячной зарплаты, если прекратил фактическую работу ранее истчения срока notice period. Ну&nbsp;и&nbsp;вишенкой на&nbsp;торте про новую контору является&nbsp;то, что есть пара свежих отзывов, в&nbsp;пределах 2&nbsp;лет, что кидают на&nbsp;последнюю зарплату. Также, судя по&nbsp;отзывам, срок действия договора&nbsp;— не&nbsp;формальность, как обычно бывает, а&nbsp;типа контора рассчитывает, что ты&nbsp;этот срок точно отработаешь. А&nbsp;если не&nbsp;отработал&nbsp;— то&nbsp;ты&nbsp;ненадёжный, «плохой».</p>
+
+<p>В&nbsp;сравнении с&nbsp;текущим, американским аутстафф-посредником, notice period в&nbsp;не&nbsp;зависимости от&nbsp;чего либо, составляет 14&nbsp;дней. Даже в&nbsp;свежем контр-офере прописано: employment is&nbsp;at&nbsp;will. Уволить могут в&nbsp;любой момент, но&nbsp;штраф, в&nbsp;виде месячной з/п&nbsp;— только если есть жалоба клиента. Лично мне нравится такой подход, точно как по&nbsp;КЗоТ&nbsp;— 14&nbsp;дней&nbsp;— и&nbsp;в&nbsp;любом случае я&nbsp;свободен. Полагаю, новый аутстафф-посредник потому и&nbsp;прицепился ко&nbsp;мне, что у&nbsp;меня привлекательный notice period, почти как у&nbsp;спеца без работы. Но&nbsp;сами-то навязывают, ИМХО, кабалу. Нормально из&nbsp;которой можно выйти только через n&nbsp;месяцев, уволившись в&nbsp;никуда и&nbsp;оставшись без свежего притока денег. Синьор&nbsp;я, судя по&nbsp;собеседованиям, весьма посредственный, так что даже на&nbsp;«горячем» рынке на&nbsp;нормальные деньги буду искать пару месяцев как минимум. (</p>
+
+<p>В&nbsp;общем, что думает сообщество по&nbsp;поводу разумного, справедливого notice period в&nbsp;аутстаффинге? Киев на&nbsp;3&nbsp;недели в&nbsp;локдауне, погода&nbsp;— жуть, милости прошу комментить. )</p>
+
+
+	</article>
+
+	
+
+		<div class="likely likely_visible likely_ready" data-url="https://dou.ua/forums/topic/33060/" data-title="Справедливый notice period в аутстаффинге">
+
+
+				<div id="btnLike" class="likely__widget likely__widget_likes "><span class="likely__icon likely__icon_likes" style="opacity: .6;filter: grayscale(0.6);position: relative; left:2.5px;">👍</span><span class="likely__button likely__button_likes"><span class="unchecked_text">Подобається</span><span class="checked_text">Сподобалось</span></span><span class="likely__counter">0</span></div>
+
+				<div id="btnStar" class="likely__widget likely__widget_stars "><span class="likely__icon likely__icon_stars"><svg class="likely__star_empty" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><path id="Shape" d="m15.965661,6.219396l-5.74046,-0.49252l-2.24237,-5.290234l-2.24237,5.290234l-5.740461,0.49252l4.354623,3.7735l-1.305176,5.611125l4.933383,-2.975997l4.933383,2.975997l-1.305177,-5.611125l4.354624,-3.7735l0,0zm-7.982831,4.911043l-3.00394,1.812119l0.795092,-3.417455l-2.652693,-2.297475l3.496484,-0.300136l1.365057,-3.22188l1.365057,3.22188l3.496484,0.300136l-2.651889,2.297475l0.795092,3.417455l-3.004743,-1.812119l0,0z"></path></svg><svg class="likely__star_full" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><path id="Shape" d="m7.994121,12.627484l4.927092,2.959405l-1.303512,-5.581348l4.349073,-3.753476l-5.733144,-0.489906l-2.23951,-5.262159l-2.239511,5.262159l-5.733142,0.489906l4.349071,3.753476l-1.303512,5.581348l4.927094,-2.959405z"></path></svg></span><span class="likely__button likely__button_stars"><span class="unchecked_text">До обраного</span><span class="checked_text">В обраному</span></span><span class="likely__counter">0</span></div>
+
+				
+
+			<div class=" likely__widget likely__widget_facebook" title="Поділитись посиланням на Фейсбуці"><span class="likely__icon likely__icon_facebook"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><path d="M15.117 0H.883C.395 0 0 .395 0 .883v14.234c0 .488.395.883.883.883h7.663V9.804H6.46V7.39h2.086V5.607c0-2.066 1.262-3.19 3.106-3.19.883 0 1.642.064 1.863.094v2.16h-1.28c-1 0-1.195.48-1.195 1.18v1.54h2.39l-.31 2.42h-2.08V16h4.077c.488 0 .883-.395.883-.883V.883C16 .395 15.605 0 15.117 0z"></path></svg></span><span class="likely__button likely__button_facebook">Facebook</span></div>
+			<div class=" likely__widget likely__widget_twitter" title="Поділитись посиланням в Твіттері" data-via="dou_forum"><span class="likely__icon likely__icon_twitter"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><path d="M15.96 3.42c-.04.153-.144.31-.237.414l-.118.058v.118l-.59.532-.237.295c-.05.036-.398.21-.413.237V6.49h-.06v.473h-.058v.294h-.058v.296h-.06v.235h-.06v.237h-.058c-.1.355-.197.71-.295 1.064h-.06v.116h-.06c-.02.1-.04.197-.058.296h-.06c-.04.118-.08.237-.118.355h-.06c-.038.118-.078.236-.117.353l-.118.06-.06.235-.117.06v.116l-.118.06v.12h-.06c-.02.057-.038.117-.058.175l-.118.06v.117c-.06.04-.118.08-.177.118v.118l-.237.177v.118l-.59.53-.532.592h-.117c-.06.078-.118.156-.177.236l-.177.06-.06.117h-.118l-.06.118-.176.06v.058h-.118l-.06.118-.353.12-.06.117c-.078.02-.156.04-.235.058v.06c-.118.038-.236.078-.354.118v.058H8.76v.06h-.12v.06h-.176v.058h-.118v.06H8.17v.058H7.99v.06l-.413.058v.06h-.237c-.667.22-1.455.293-2.36.293h-.886v-.058h-.53v-.06H3.27v-.06h-.295v-.06H2.68v-.057h-.177v-.06h-.236v-.058H2.09v-.06h-.177v-.058h-.177v-.06H1.56v-.058h-.12v-.06l-.294-.06v-.057c-.118-.04-.236-.08-.355-.118v-.06H.674v-.058H.555v-.06H.437v-.058H.32l-.06-.12H.142v-.058c-.13-.08-.083.026-.177-.118H1.56v-.06c.294-.04.59-.077.884-.117v-.06h.177v-.058h.237v-.06h.118v-.06h.177v-.057h.118v-.06h.177v-.058l.236-.06v-.058l.236-.06c.02-.038.04-.078.058-.117l.237-.06c.02-.04.04-.077.058-.117h.118l.06-.118h.118c.036-.025.047-.078.118-.118V12.1c-1.02-.08-1.84-.54-2.303-1.183-.08-.058-.157-.118-.236-.176v-.117l-.118-.06v-.117c-.115-.202-.268-.355-.296-.65.453.004.987.008 1.354-.06v-.06c-.254-.008-.47-.08-.65-.175v-.058H2.32v-.06c-.08-.02-.157-.04-.236-.058l-.06-.118h-.117l-.118-.178h-.12c-.077-.098-.156-.196-.235-.294l-.118-.06v-.117l-.177-.12c-.35-.502-.6-1.15-.59-2.006h.06c.204.234.948.377 1.357.415v-.06c-.257-.118-.676-.54-.827-.768V5.9l-.118-.06c-.04-.117-.08-.236-.118-.354h-.06v-.118H.787c-.04-.196-.08-.394-.118-.59-.06-.19-.206-.697-.118-1.005h.06V3.36h.058v-.177h.06v-.177h.057V2.83h.06c.04-.118.078-.236.117-.355h.118v.06c.12.097.237.196.355.295v.118l.118.058c.08.098.157.197.236.295l.176.06.354.413h.118l.177.236h.118l.06.117h.117c.04.06.08.118.118.177h.118l.06.118.235.06.06.117.356.12.06.117.53.176v.06h.118v.058l.236.06v.06c.118.02.236.04.355.058v.06h.177v.058h.177v.06h.176v.058h.236v.06l.472.057v.06l1.417.18v-.237c-.1-.112-.058-.442-.057-.65 0-.573.15-.99.354-1.358v-.117l.118-.06.06-.235.176-.118v-.118c.14-.118.276-.236.414-.355l.06-.117h.117l.12-.177.235-.06.06-.117h.117v-.058H9.7v-.058h.177v-.06h.177v-.058h.177v-.06h.296v-.058h1.063v.058h.294v.06h.177v.058h.178v.06h.177v.058h.118v.06h.118l.06.117c.08.018.158.038.236.058.04.06.08.118.118.177h.118l.06.117c.142.133.193.163.472.178.136-.12.283-.05.472-.118v-.06h.177v-.058h.177v-.06l.236-.058v-.06h.177l.59-.352v.176h-.058l-.06.295h-.058v.117h-.06v.118l-.117.06v.118l-.177.118v.117l-.118.06-.354.412h-.117l-.177.236h.06c.13-.112.402-.053.59-.117l1.063-.353z"></path></svg></span><span class="likely__button likely__button_twitter">Twitter</span></div>
+			<div class=" likely__widget likely__widget_linkedin" title="Поділитись посиланням в LinkedIn"><span class="likely__icon likely__icon_linkedin"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><path d="M2.4,6h2.4v7.6H2.4V6z M3.6,2.2c0.8,0,1.4,0.6,1.4,1.4C4.9,4.3,4.3,5,3.6,5C2.8,5,2.2,4.3,2.2,3.6C2.2,2.8,2.8,2.2,3.6,2.2C3.6,2.2,3.6,2.2,3.6,2.2 M6.2,6h2.3v1h0C9,6.2,9.9,5.8,10.8,5.8c2.4,0,2.8,1.6,2.8,3.6v4.2h-2.4V9.9c0-0.9,0-2-1.2-2c-1.2,0-1.4,1-1.4,2v3.8H6.2V6z M13,0H3C1,0,0,1,0,3v10c0,2,1,3,3,3h10c2,0,3-1,3-3V3C16,1,15,0,13,0zz"></path></svg></span><span class="likely__button likely__button_linkedin">LinkedIn</span></div>
+
+		</div>
+
+
+
+
+	
+
+
+
+		<a name="comments"></a>
+		<div class="b-comments ">
+				<div id="floatForm" class="hidden-form">
+	<div class="b-comments-form">
+			<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/anon.png" width="40" height="40">
+
+		<div class="textarea-wrap">
+			<textarea class="first placeholdered"></textarea>
+		</div>
+
+			<div class="list-tags"><em>Дозволені теги: </em>blockquote, a, pre, code, ul, ol, li, b, i, del.</div>
+
+		<div class="send">
+			<div class="b-buttons">
+				<input class="form-button disabled" type="submit" value="Додати коментар">
+					<div class="hint">Ctrl + Enter</div>
+				<div class="little-loading"></div>
+			</div>
+		</div>
+	</div>
+</div>
+
+			<div class="comments-head" id="fixedableMenuId">
+				<div class="fixed-menu">
+					<a id="upPageLnkId" title="Наверх" href="javascript:;"></a>
+					<h3 id="lblCommentsCount">73 коментарі</h3>
+
+						<a href="https://dou.ua/forums/topic/33060/#comments" class="navigation-comment">Додати коментар</a>
+
+					<a id="btnSubsribe" class="comment-subscribe " href="javascript:;"><span class="unchecked-text">Підписатись<span class="m-hide"> на коментарі</span></span><span class="checked-text">Відписатись<span class="m-hide"> від коментарів</span></span></a>
+
+
+				</div>
+				<div class="wrapper"></div>
+			</div>
+
+				<div id="inlineForm"><a name="answer"></a>
+	<div class="b-comments-form">
+			<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/anon.png" width="40" height="40">
+
+		<div class="textarea-wrap">
+			<textarea class="first placeholdered"></textarea>
+		</div>
+
+			<div class="list-tags"><em>Дозволені теги: </em>blockquote, a, pre, code, ul, ol, li, b, i, del.</div>
+
+		<div class="send">
+			<div class="b-buttons">
+				<input class="form-button disabled" type="submit" value="Додати коментар">
+					<div class="hint">Ctrl + Enter</div>
+				<div class="little-loading"></div>
+			</div>
+		</div>
+	</div>
+</div>
+
+			<div id="commentsList">
+				
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-0">
+				<b class="scroll-wrapper" id="2090804"></b>
+
+	<div id="comment_2090804" class="comment g-approved-user">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/vadim-kopanev/" target="_blank">
+	<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/40x40_73383.jpg" width="40" height="40" srcset="https://s.dou.ua/img/avatars/80x80_73383.jpg 1.1x">
+				Vadim Kopanev
+			</a>
+
+<span class="prof">
+.NET Architect
+				</span>
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2090804">24.03.2021 13:29</a>
+		</div>
+
+		<div class="comment_text b-typo"><blockquote>но&nbsp;я&nbsp;для себя решил, что "тише едешь&nbsp;— дальше будешь".</blockquote>
+
+<p>зря</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-0">
+				<b class="scroll-wrapper" id="2090131"></b>
+
+	<div id="comment_2090131" class="comment g-approved-user">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/cryo/" target="_blank">
+	<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/40x40_3949872820359990730986371928743059558760448n.jpg" width="40" height="40" srcset="https://s.dou.ua/img/avatars/80x80_3949872820359990730986371928743059558760448n.jpg 1.1x">
+				Oleksandr Suvorov
+			</a>
+
+<span class="prof">
+інженер-порохобот
+в <a href="https://jobs.dou.ua/companies/ciklum/" target="_blank" class="company-favicon" style="background-image: url(https://s.dou.ua/img/static/favicons/ciklum.png);">Ciklum</a>
+				</span>
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2090131">23.03.2021 15:04</a>
+		</div>
+
+		<div class="comment_text b-typo"><p>Notice-period може бути будь який в&nbsp;розумних рамках, але ОДНАКОВИЙ для обох сторін. І&nbsp;«штраф» в&nbsp;розмірі суми контракту за&nbsp;місяць&nbsp;— це&nbsp;вже зовсім дичина якась.</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-0">
+				<b class="scroll-wrapper" id="2089810"></b>
+
+	<div id="comment_2089810" class="comment g-approved-user">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/ivan-malamen/" target="_blank">
+	<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/40x40_470370.jpg" width="40" height="40" srcset="https://s.dou.ua/img/avatars/80x80_470370.jpg 1.1x">
+				Ivan Malamen
+			</a>
+
+<span class="prof">
+Team Lead Platform
+				</span>
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2089810">23.03.2021 09:14</a>
+		</div>
+
+		<div class="comment_text b-typo"><p>В&nbsp;этих ваших Европках нотис период может быть и&nbsp;6&nbsp;месяцев (лично у&nbsp;меня был) и&nbsp;год. И&nbsp;ничего, компании (и&nbsp;даже тот&nbsp;же аутсорс/стафф) вполне себе ждут, если нужен толковый человек. Дырки «на&nbsp;вчера» закрываются контракторами/аутстаффом, пока не&nbsp;выйдет основной человек&nbsp;— опять таки лично учавствовал в&nbsp;процессе.</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-1">
+				<b class="scroll-wrapper" id="2089861"></b>
+
+	<div id="comment_2089861" class="comment">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/viacheslav-burian/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_100x100anon_A4WaZh6.jpg" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_100x100anon_A4WaZh6.jpg 1.1x">				Viacheslav
+			</a>
+
+
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2089861">23.03.2021 10:48</a>
+		</div>
+
+		<div class="comment_text b-typo"><p>Тому і&nbsp;айті в&nbsp;тих європках скорочується на&nbsp;нашу користь.</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2089810">Ivan Malamen</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-2">
+				<b class="scroll-wrapper" id="2089865"></b>
+
+	<div id="comment_2089865" class="comment g-approved-user">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/ivan-malamen/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_470370.jpg" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_470370.jpg 1.1x">				Ivan Malamen
+			</a>
+
+<span class="prof">
+Team Lead Platform
+				</span>
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2089865">23.03.2021 10:53</a>
+		</div>
+
+		<div class="comment_text b-typo"><p>:D<br><a href="https://www.daxx.com/blog/development-trends/number-software-developers-world" target="_blank">www.daxx.com/...​software-developers-world</a></p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2089861">Viacheslav</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-3">
+				<b class="scroll-wrapper" id="2090137"></b>
+
+	<div id="comment_2090137" class="comment">
+		<div class="b-post-author dou-official-person">
+			<a class="avatar" href="https://dou.ua/users/andrew_d/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_anon.png" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_anon.png 1.1x">				Andrew Frolov
+			</a>
+
+
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2090137">23.03.2021 15:11</a>
+		</div>
+
+		<div class="comment_text b-typo"><p>По&nbsp;правде говоря, весьма неожиданно, про Германию. Могут&nbsp;ли среди этих 800&nbsp;тыс. программистов тыс. <nobr>100-200</nobr> быть в&nbsp;рамках скрытой безработицы? Сидеть где-нибудь в&nbsp;саппорте&nbsp;L2, фиксить баги в&nbsp;унылом легаси и&nbsp;годами безуспешно ходить на&nbsp;собеседования в&nbsp;приличные конторы? В&nbsp;то&nbsp;время как «канализация» в&nbsp;виде таких&nbsp;же проектов, но&nbsp;без шизы про безопасность, утекать в&nbsp;страны типа Украины?</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2089865">Ivan Malamen</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-3">
+				<b class="scroll-wrapper" id="2090224"></b>
+
+	<div id="comment_2090224" class="comment">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/viacheslav-burian/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_100x100anon_A4WaZh6.jpg" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_100x100anon_A4WaZh6.jpg 1.1x">				Viacheslav
+			</a>
+
+
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2090224">23.03.2021 16:17</a>
+		</div>
+
+		<div class="comment_text b-typo"><p>Це&nbsp;добре звісно, що&nbsp;ти&nbsp;знайшов цю&nbsp;інформацію на&nbsp;сайті української аутсорсингової компанії, хотілось би&nbsp;ще&nbsp;на&nbsp;динамику подивитись. Ось, наприклад тут <a href="https://www.quora.com/How-many-software-developers-are-there-in-Germany?share=1" target="_blank">www.quora.com/...​-there-in-Germany?share=1</a> 8&nbsp;років тому на&nbsp;питання скільки програмістів в&nbsp;Німеччині відповідали, що&nbsp;850К. А&nbsp;сьогодні скільки, 900К ?</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2089865">Ivan Malamen</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-4">
+				<b class="scroll-wrapper" id="2090231"></b>
+
+	<div id="comment_2090231" class="comment g-approved-user">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/ivan-malamen/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_470370.jpg" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_470370.jpg 1.1x">				Ivan Malamen
+			</a>
+
+<span class="prof">
+Team Lead Platform
+				</span>
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2090231">23.03.2021 16:22</a>
+		</div>
+
+		<div class="comment_text b-typo"><blockquote>на&nbsp;сайті української аутсорсингової компанії,</blockquote>
+
+<p>Daxx is&nbsp;a&nbsp;Netherlands-based software development and technology consulting company<br></p><blockquote>би&nbsp;ще&nbsp;на&nbsp;динамику подивитись.</blockquote>
+
+<p>ну&nbsp;так сделай аналитику по&nbsp;динамике))</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2090224">Viacheslav</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-5">
+				<b class="scroll-wrapper" id="2090252"></b>
+
+	<div id="comment_2090252" class="comment">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/viacheslav-burian/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_100x100anon_A4WaZh6.jpg" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_100x100anon_A4WaZh6.jpg 1.1x">				Viacheslav
+			</a>
+
+
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2090252">23.03.2021 16:36</a>
+		</div>
+
+		<div class="comment_text b-typo"><p>В&nbsp;розділ кар’єра там зайди&nbsp;ще, щоб в&nbsp;тебе остаточно жодних сумнівів не&nbsp;залишилось в&nbsp;«Netherlands-based company» :)<br>А&nbsp;статистика ось, поверхнева дуже, але за&nbsp;8&nbsp;років кількість програмістів в&nbsp;Німеччині майже не&nbsp;змінилась. Незважаючи на&nbsp;всі всі blue карти і&nbsp;воплі, що&nbsp;їм&nbsp;там когось не&nbsp;вистачає дуже. Зара дєдушкі в&nbsp;дойчебанє досидять до&nbsp;пенсії, майнфрейм спишуть..</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2090231">Ivan Malamen</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-6">
+				<b class="scroll-wrapper" id="2090265"></b>
+
+	<div id="comment_2090265" class="comment g-approved-user">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/ivan-malamen/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_470370.jpg" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_470370.jpg 1.1x">				Ivan Malamen
+			</a>
+
+<span class="prof">
+Team Lead Platform
+				</span>
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2090265">23.03.2021 16:52</a>
+		</div>
+
+		<div class="comment_text b-typo"><blockquote>В&nbsp;розділ кар’єра там зайди&nbsp;ще, щоб в&nbsp;тебе остаточно жодних сумнівів не&nbsp;залишилось в&nbsp;«Netherlands-based company» :)</blockquote>
+
+<p>ОК, пусть будет украинская компания. В&nbsp;таком случае их&nbsp;статистика вполне может быть предвзятой.<br></p><blockquote>А&nbsp;статистика ось, поверхнева дуже, але за&nbsp;8&nbsp;років кількість програмістів в&nbsp;Німеччині майже не&nbsp;змінилась.</blockquote>
+
+<p>А&nbsp;можно сорс? За&nbsp;последне только 3&nbsp;года и&nbsp;только в&nbsp;Мюнхене Google. Apple, Microsoft иил открыли новые офисы или расширили предыдущие. Это не&nbsp;говоря уже о&nbsp;количестве местных стартапов и&nbsp;компаний средней руки.<br></p><blockquote>Зара дєдушкі в&nbsp;дойчебанє досидять до&nbsp;пенсії, майнфрейм спишуть..</blockquote>
+
+<p>не&nbsp;понимаю скепсиса, дойчебанк&nbsp;— далеко не&nbsp;основной&nbsp;ИТ работодатель. Тот&nbsp;же САП всасывает в&nbsp;себя талантливую молодежь пылесосом.<br>Я&nbsp;же не&nbsp;отрицаю, что украинское&nbsp;ИТ быстро растет&nbsp;— я&nbsp;только рад этому. Но&nbsp;утверждать, что немецкое айти утекает в&nbsp;Украину&nbsp;— это не&nbsp;так.</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2090252">Viacheslav</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-0">
+				<b class="scroll-wrapper" id="2089779"></b>
+
+	<div id="comment_2089779" class="comment">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/name-surname/" target="_blank">
+	<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/40x40_345180.jpg" width="40" height="40" srcset="https://s.dou.ua/img/avatars/80x80_345180.jpg 1.1x">
+				kraken
+			</a>
+
+
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2089779">23.03.2021 07:52</a>
+		</div>
+
+		<div class="comment_text b-typo"><p>At&nbsp;will</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-0">
+				<b class="scroll-wrapper" id="2089157"></b>
+
+	<div id="comment_2089157" class="comment">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/xxx-yyy/" target="_blank">
+	<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/40x40_anon.png" width="40" height="40" srcset="https://s.dou.ua/img/avatars/80x80_anon.png 1.1x">
+				Уставший архитектор
+			</a>
+
+
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2089157">22.03.2021 14:27</a>
+		</div>
+
+		<div class="comment_text b-typo"><blockquote>В&nbsp;общем, что думает сообщество по&nbsp;поводу разумного, справедливого notice period в&nbsp;аутстаффинге? </blockquote>
+
+<p>Ноль дней. Потому что некоторые разрабы&nbsp;— дебилы, и&nbsp;даже по&nbsp;прошествии года могут учудить такое, что просто на&nbsp;голову не&nbsp;лезет</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-0">
+				<b class="scroll-wrapper" id="2088525"></b>
+
+	<div id="comment_2088525" class="comment g-approved-user">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/yaroslav-harakternik/" target="_blank">
+	<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/40x40_0_80XIBfu.jpg" width="40" height="40" srcset="https://s.dou.ua/img/avatars/80x80_0_80XIBfu.jpg 1.1x">
+				Ярослав Характерник
+			</a>
+
+<span class="prof">
+Golang Developer
+в <a href="https://jobs.dou.ua/companies/evrius/" target="_blank" class="company-favicon" style="background-image: url(https://s.dou.ua/img/static/favicons/16_D7FnsM5.png);">Evrius</a>
+				</span>
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2088525">21.03.2021 21:07</a>
+		</div>
+
+		<div class="comment_text b-typo"><blockquote>Ну&nbsp;и&nbsp;вишенкой на&nbsp;торте про новую контору является&nbsp;то, что есть пара свежих отзывов, в&nbsp;пределах 2&nbsp;лет, что кидают на&nbsp;последнюю зарплату.</blockquote>
+
+<p>Прочитав відгуки? Допомогли? То&nbsp;напиши свій відгук!</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-0">
+				<b class="scroll-wrapper" id="2088411"></b>
+
+	<div id="comment_2088411" class="comment">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/v-m-4/" target="_blank">
+	<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/40x40_063ebe53-5238-422f-baea-25f5f474502e.jpeg" width="40" height="40" srcset="https://s.dou.ua/img/avatars/80x80_063ebe53-5238-422f-baea-25f5f474502e.jpeg 1.1x">
+				You all know exactly who I am
+			</a>
+
+
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2088411">21.03.2021 15:33</a>
+		</div>
+
+		<div class="comment_text b-typo"><p>Что мешает заболеть месяца на&nbsp;полтора?</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-1">
+				<b class="scroll-wrapper" id="2088417"></b>
+
+	<div id="comment_2088417" class="comment">
+		<div class="b-post-author dou-official-person">
+			<a class="avatar" href="https://dou.ua/users/andrew_d/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_anon.png" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_anon.png 1.1x">				Andrew Frolov
+			</a>
+
+
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2088417">21.03.2021 15:43</a>
+		</div>
+
+		<div class="comment_text b-typo"><p>Кидок на&nbsp;последнюю, невыплаченную з/п.</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2088411">You all know exactly who I am</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-2">
+				<b class="scroll-wrapper" id="2088431"></b>
+
+	<div id="comment_2088431" class="comment">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/v-m-4/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_063ebe53-5238-422f-baea-25f5f474502e.jpeg" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_063ebe53-5238-422f-baea-25f5f474502e.jpeg 1.1x">				You all know exactly who I am
+			</a>
+
+
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2088431">21.03.2021 17:19</a>
+		</div>
+
+		<div class="comment_text b-typo"><p>Получил зарплату и&nbsp;сразу заболел, максимум пару дней потеряешь, в&nbsp;течение которых просто волоебил.</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2088417">Andrew Frolov</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-3">
+				<b class="scroll-wrapper" id="2088449"></b>
+
+	<div id="comment_2088449" class="comment">
+		<div class="b-post-author dou-official-person">
+			<a class="avatar" href="https://dou.ua/users/andrew_d/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_anon.png" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_anon.png 1.1x">				Andrew Frolov
+			</a>
+
+
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2088449">21.03.2021 18:28</a>
+		</div>
+
+		<div class="comment_text b-typo"><p>Для этого во&nbsp;многих конторах платят з/п с&nbsp;10&nbsp;по&nbsp;15&nbsp;число, раз в&nbsp;месяц.</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2088431">You all know exactly who I am</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-4">
+				<b class="scroll-wrapper" id="2088481"></b>
+
+	<div id="comment_2088481" class="comment">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/v-m-4/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_063ebe53-5238-422f-baea-25f5f474502e.jpeg" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_063ebe53-5238-422f-baea-25f5f474502e.jpeg 1.1x">				You all know exactly who I am
+			</a>
+
+
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2088481">21.03.2021 19:31</a>
+		</div>
+
+		<div class="comment_text b-typo"><p>«Пилю супер сложную мега фичу, выявились сложности». </p>
+
+<p>Как маленький.</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2088449">Andrew Frolov</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-4">
+				<b class="scroll-wrapper" id="2090807"></b>
+
+	<div id="comment_2090807" class="comment g-approved-user">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/vadim-kopanev/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_73383.jpg" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_73383.jpg 1.1x">				Vadim Kopanev
+			</a>
+
+<span class="prof">
+.NET Architect
+				</span>
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2090807">24.03.2021 13:32</a>
+		</div>
+
+		<div class="comment_text b-typo"><p>Это не&nbsp;этого, это у&nbsp;них бардак</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2088449">Andrew Frolov</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-0">
+				<b class="scroll-wrapper" id="2088241"></b>
+
+	<div id="comment_2088241" class="comment g-approved-user">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/alexander-merkulov/" target="_blank">
+	<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/40x40_123684.jpg" width="40" height="40" srcset="https://s.dou.ua/img/avatars/80x80_123684.jpg 1.1x">
+				Alexander Merkulov
+			</a>
+
+<span class="prof">
+asterisk guru
+				</span>
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2088241">21.03.2021 00:59</a>
+		</div>
+
+		<div class="comment_text b-typo"><p>Имхо больше месяца это уже должна быть компания мечты.<br>Две недели по&nbsp;КЗОТу. Если кто-то хочет больше. Ну, должны быть основания, к&nbsp;примеру, нереально хорошая компенсация.</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-1">
+				<b class="scroll-wrapper" id="2089649"></b>
+
+	<div id="comment_2089649" class="comment g-approved-user">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/sergey-morenets/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_me21_moUEx5F.jpg" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_me21_moUEx5F.jpg 1.1x">				Sergiy Morenets
+			</a>
+
+<span class="prof">
+Java evangelist
+				</span>
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2089649">22.03.2021 22:54</a>
+		</div>
+
+		<div class="comment_text b-typo"><p>ФОП і&nbsp;КЗпП так само далекі один від одного, як&nbsp;Земля і&nbsp;Альфа Центавра.</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2088241">Alexander Merkulov</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-0">
+				<b class="scroll-wrapper" id="2088096"></b>
+
+	<div id="comment_2088096" class="comment">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/flyman/" target="_blank">
+	<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/40x40_4028.JPG" width="40" height="40" srcset="https://s.dou.ua/wp_uploads/members/p/80x80_4028.JPG 1.1x">
+				flyman
+			</a>
+
+
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2088096">20.03.2021 19:54</a>
+		</div>
+
+		<div class="comment_text b-typo"><blockquote>. В&nbsp;основной период сотрудничества предлагают notice period такой: со&nbsp;стороны аутстафф-посредника&nbsp;— 30&nbsp;дней, а&nbsp;со&nbsp;стороны меня, исполнителя&nbsp;— предлагали 60&nbsp;дней. </blockquote>
+
+<p>якесь дежаву,</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-0">
+				<b class="scroll-wrapper" id="2088082"></b>
+
+	<div id="comment_2088082" class="comment g-approved-user">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/andriy-vorobyov/" target="_blank">
+	<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/40x40_177651.jpg" width="40" height="40" srcset="https://s.dou.ua/img/avatars/80x80_177651.jpg 1.1x">
+				Andriy Vorobyov
+			</a>
+
+<span class="prof">
+フルスタック侍
+				</span>
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2088082">20.03.2021 19:27</a>
+		</div>
+
+		<div class="comment_text b-typo"><p>Termination notice 60&nbsp;дней&nbsp;— это очень плохое условие.<br>Его смысл&nbsp;— не&nbsp;дать переманивать.&nbsp;60&nbsp;дней на&nbsp;новом месте ждать мало кто будет.</p>
+
+<p>30&nbsp;дней&nbsp;— имхо допустимый максимум.<br>И&nbsp;да, условия должны быть симметричными.</p>
+
+<blockquote>Уволить могут в&nbsp;любой момент, но&nbsp;штраф, в&nbsp;виде месячной з/п&nbsp;— только если есть жалоба клиента.</blockquote>
+
+<p>Этот штраф&nbsp;— не&nbsp;выглядит как хорошее условие.</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-1">
+				<b class="scroll-wrapper" id="2088184"></b>
+
+	<div id="comment_2088184" class="comment g-approved-user">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/dn041080pav/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_10320507_761020127282597_2004325160286347248_n1.jpg" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_10320507_761020127282597_2004325160286347248_n1.jpg 1.1x">				Олексій Пєніє
+			</a>
+
+<span class="prof">
+Developer, Java
+				</span>
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2088184">20.03.2021 22:46</a>
+		</div>
+
+		<div class="comment_text b-typo"><p>Но&nbsp;можно сделать так, что тебя захотят уволить. А&nbsp;ещё эта норма незаконна, и&nbsp;если попытаются её&nbsp;применить&nbsp;— ровно ничто не&nbsp;мешает сдать с&nbsp;потрохами за&nbsp;уход от&nbsp;налогов, потому что эти условия несут на&nbsp;себе более чем достаточные признаки трудоустройства.</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2088082">Andriy Vorobyov</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-2">
+				<b class="scroll-wrapper" id="2088190"></b>
+
+	<div id="comment_2088190" class="comment">
+		<div class="b-post-author dou-official-person">
+			<a class="avatar" href="https://dou.ua/users/andrew_d/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_anon.png" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_anon.png 1.1x">				Andrew Frolov
+			</a>
+
+
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2088190">20.03.2021 22:53</a>
+		</div>
+
+		<div class="comment_text b-typo"><blockquote>ровно ничто не&nbsp;мешает сдать с&nbsp;потрохами за&nbsp;уход от&nbsp;налогов,</blockquote>
+
+<p>В&nbsp;случае с&nbsp;ВЭД&nbsp;— это не&nbsp;сработает. Да&nbsp;и&nbsp;в&nbsp;Украине без подписанного Акта выполненных работ ничего не&nbsp;докажешь.</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2088184">Олексій Пєніє</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-2">
+				<b class="scroll-wrapper" id="2090583"></b>
+
+	<div id="comment_2090583" class="comment g-approved-user">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/andriy-vorobyov/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_177651.jpg" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_177651.jpg 1.1x">				Andriy Vorobyov
+			</a>
+
+<span class="prof">
+フルスタック侍
+				</span>
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2090583">24.03.2021 03:22</a>
+		</div>
+
+		<div class="comment_text b-typo"><p>Ну&nbsp;в&nbsp;случае увольнения по&nbsp;инициативе компании обычно такой&nbsp;же зеркальный срок у&nbsp;уведомления.<br>Поэтому меньше поработать не&nbsp;получиться. </p>
+
+<p>Плюс компании нужно найти замену, и&nbsp;выгоднее чтобы контрактор работал пока эту замену ищут.</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2088184">Олексій Пєніє</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-3">
+				<b class="scroll-wrapper" id="2090739"></b>
+
+	<div id="comment_2090739" class="comment g-approved-user">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/dn041080pav/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_10320507_761020127282597_2004325160286347248_n1.jpg" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_10320507_761020127282597_2004325160286347248_n1.jpg 1.1x">				Олексій Пєніє
+			</a>
+
+<span class="prof">
+Developer, Java
+				</span>
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2090739">24.03.2021 12:24</a>
+		</div>
+
+		<div class="comment_text b-typo"><p>Но&nbsp;работать-то можно по-всякому.</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2090583">Andriy Vorobyov</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-1">
+				<b class="scroll-wrapper" id="2088407"></b>
+
+	<div id="comment_2088407" class="comment">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/anton-kononenko-3/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_1970.jpg" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_1970.jpg 1.1x">				anonymus ps
+			</a>
+
+
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2088407">21.03.2021 15:19</a>
+		</div>
+
+		<div class="comment_text b-typo"><p>если ты&nbsp;не&nbsp;июнь будут и&nbsp;больше ждать, проверено</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2088082">Andriy Vorobyov</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-0">
+				<b class="scroll-wrapper" id="2088064"></b>
+
+	<div id="comment_2088064" class="comment">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/clewer_one/" target="_blank">
+	<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/40x40_3693.png" width="40" height="40" srcset="https://s.dou.ua/img/avatars/80x80_3693.png 1.1x">
+				Леголас Трандуилович
+			</a>
+
+
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2088064">20.03.2021 19:02</a>
+		</div>
+
+		<div class="comment_text b-typo"><blockquote>Контрофер принял</blockquote>
+
+<blockquote>но&nbsp;я&nbsp;для себя решил, что «тише едешь&nbsp;— дальше будешь».</blockquote>
+
+<p>По-моему зря.<br></p><blockquote>Что меня оттолкнуло от&nbsp;новой конторы?</blockquote>
+
+<p>Ага.. ну&nbsp;ладно.<br></p><blockquote>со&nbsp;стороны аутстафф-посредника&nbsp;— 30&nbsp;дней, а&nbsp;со&nbsp;стороны меня, исполнителя&nbsp;— предлагали 60&nbsp;дней</blockquote>
+
+<p>Я&nbsp;б сказал «до&nbsp;свиданья». Очень странный звоночек. Мне кажется справедливым, что эти сроки должны быть симметричными. Если это не&nbsp;так, такие условия должны чем-то хорошо компенсироваться. Например хорошим бонусом к&nbsp;зарплате.<br></p><blockquote>что кидают на&nbsp;последнюю зарплату</blockquote>
+
+<p>очень скверный звоночек.<br></p><blockquote>но&nbsp;штраф, в&nbsp;виде месячной з/п</blockquote>
+
+<p>Ну&nbsp;что за&nbsp;капец опять.<br></p><blockquote>В&nbsp;общем, что думает сообщество по&nbsp;поводу разумного, справедливого notice period в&nbsp;аутстаффинге?</blockquote>
+
+<p>2&nbsp;недели&nbsp;— месяц, семитрично в&nbsp;обе стороны.</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-0">
+				<b class="scroll-wrapper" id="2087998"></b>
+
+	<div id="comment_2087998" class="comment g-approved-user">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/pavel-petrichenko/" target="_blank">
+	<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/40x40_120605.jpg" width="40" height="40" srcset="https://s.dou.ua/img/avatars/80x80_120605.jpg 1.1x">
+				Pavel Petrichenko
+			</a>
+
+<span class="prof">
+Head of security, head of local admins, head of hr
+в <a href="https://jobs.dou.ua/companies/nexteum/" target="_blank" class="company-favicon" style="background-image: url(https://s.dou.ua/img/static/favicons/favicon-01.png);">Nexteum</a>
+				</span>
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2087998">20.03.2021 16:41</a>
+		</div>
+
+		<div class="comment_text b-typo"><p>Мысли в&nbsp;слух <br>А&nbsp;если привязать период нотификации к&nbsp;состоянию таска/проекта/спринта и&nbsp;к&nbsp;состоянию его описания ? <br>Если таск доделан и&nbsp;описан так что его может продолжить другой разраб без вырванных волос на&nbsp;голове&nbsp;— иди хоть день в&nbsp;день, а&nbsp;если не&nbsp;доделал&nbsp;— доделывай, отписывай и&nbsp;свободен ) встречали такое ?</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-1">
+				<b class="scroll-wrapper" id="2088028"></b>
+
+	<div id="comment_2088028" class="comment g-approved-user">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/silverwolf/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_6233.png" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_6233.png 1.1x">				Bogdan Shyiak
+			</a>
+
+<span class="prof">
+SE or Dev
+				</span>
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2088028">20.03.2021 17:35</a>
+		</div>
+
+		<div class="comment_text b-typo"><blockquote>А&nbsp;если привязать период нотификации к&nbsp;состоянию таска/проекта/спринта и&nbsp;к&nbsp;состоянию его описания ?<br>Если таск доделан и&nbsp;описан так что его может продолжить другой разраб без вырванных волос на&nbsp;голове&nbsp;— иди хоть день в&nbsp;день, а&nbsp;если не&nbsp;доделал&nbsp;— доделывай, отписывай и&nbsp;свободен ) встречали такое ?</blockquote>
+
+<p>Зустрічали, в&nbsp;основному в&nbsp;конторах з&nbsp;фіговим менеджментом. <br>При нормальний організації таски закриваються максиму за&nbsp;тиждень і&nbsp;хтось інший може продовжити виконання.<br>Але тут дивно, що&nbsp;такі «думки вголос» виникають у&nbsp;людини яка «Head of&nbsp;security, head of&nbsp;local admins, head of&nbsp;hr&nbsp;в&nbsp;Nexteum».<br>Як&nbsp;швидко ви&nbsp;плануєте знайти (і&nbsp;заонбордити) допустимо навіть мідла?</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2087998">Pavel Petrichenko</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-2">
+				<b class="scroll-wrapper" id="2088058"></b>
+
+	<div id="comment_2088058" class="comment g-approved-user">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/pavel-petrichenko/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_120605.jpg" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_120605.jpg 1.1x">				Pavel Petrichenko
+			</a>
+
+<span class="prof">
+Head of security, head of local admins, head of hr
+в <a href="https://jobs.dou.ua/companies/nexteum/" target="_blank" class="company-favicon" style="background-image: url(https://s.dou.ua/img/static/favicons/favicon-01.png);">Nexteum</a>
+				</span>
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2088058">20.03.2021 18:51</a>
+		</div>
+
+		<div class="comment_text b-typo"><p>Ответ не&nbsp;совсем по&nbsp;сути, но&nbsp;понятен) я&nbsp;задал вопрос для обсуждения вариантов сохранения интересов всех сторон (которые не&nbsp;упоминались в&nbsp;статье)<br>А&nbsp;скорость онбордига вы&nbsp;сами прекрасно понимаете зависит от&nbsp;многих факторов и&nbsp;ванговать на&nbsp;срок тут смысла не&nbsp;вижу</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2088028">Bogdan Shyiak</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-3">
+				<b class="scroll-wrapper" id="2088079"></b>
+
+	<div id="comment_2088079" class="comment g-approved-user">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/silverwolf/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_6233.png" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_6233.png 1.1x">				Bogdan Shyiak
+			</a>
+
+<span class="prof">
+SE or Dev
+				</span>
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2088079">20.03.2021 19:22</a>
+		</div>
+
+		<div class="comment_text b-typo"><blockquote>Ответ не&nbsp;совсем по&nbsp;сути, но&nbsp;понятен) я&nbsp;задал вопрос для обсуждения вариантов сохранения интересов всех сторон (которые не&nbsp;упоминались в&nbsp;статье)</blockquote>
+
+<p>Відповідь якраз по&nbsp;темі. І&nbsp;ваш варіант зовсім не&nbsp;враховує інтереси сторін:<br>—&nbsp;у&nbsp;працівника інтерес&nbsp;— отримання стабільного доходу. Якщо можуть скинути після завершення таски, це&nbsp;не&nbsp;дає стабільності.<br>—&nbsp;у&nbsp;контори інтерес делівері. І&nbsp;ось тут випливає друга частина:<br></p><blockquote>Але тут дивно, що&nbsp;такі «думки вголос» виникають у&nbsp;людини яка «Head of&nbsp;security, head of&nbsp;local admins, head of&nbsp;hr&nbsp;в&nbsp;Nexteum».<br>Як&nbsp;швидко ви&nbsp;плануєте знайти (і&nbsp;заонбордити) допустимо навіть мідла?</blockquote>
+
+<p>Ви&nbsp;зможете знайти заміну (від відкриття позиції до&nbsp;ефективної роботи на&nbsp;проекті) навіть для мідла за&nbsp;тиждень?<br>Якщо так, то&nbsp;буде цікаво почитати статтю про&nbsp;це. Бо<br>—&nbsp;пошук кандидата&nbsp;— це&nbsp;декілька тижнів (а&nbsp;скоріше більше місяця)<br>—&nbsp;якщо знайшли і&nbsp;домовились, то&nbsp;у&nbsp;кандидата буде всій нотіс період від 2&nbsp;тижнів, скоріше за&nbsp;все<br>—&nbsp;онбордін&nbsp;— це&nbsp;теж не&nbsp;1&nbsp;день, навіть в&nbsp;ідеальному випадку десь тиждень (видати ноут, зробити доступа, почитати про проект)</p>
+
+<p>І&nbsp;якраз на&nbsp;це&nbsp;все конторі і&nbsp;потрібен нотіс період від кандидита, а&nbsp;не&nbsp;на&nbsp;завершення тасок (таску завжди можна просто викинути і&nbsp;переробити).</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2088058">Pavel Petrichenko</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-4">
+				<b class="scroll-wrapper" id="2088102"></b>
+
+	<div id="comment_2088102" class="comment">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/clewer_one/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_3693.png" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_3693.png 1.1x">				Леголас Трандуилович
+			</a>
+
+
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2088102">20.03.2021 20:00</a>
+		</div>
+
+		<div class="comment_text b-typo"><blockquote>Ви&nbsp;зможете знайти заміну (від відкриття позиції до&nbsp;ефективної роботи на&nbsp;проекті) навіть для мідла за&nbsp;тиждень?</blockquote>
+
+<p>За&nbsp;неделю, только если есть уже готовый под рукой. За&nbsp;2&nbsp;— скорее всего, за&nbsp;месяц&nbsp;— гарантированно. Да&nbsp;и&nbsp;всегда&nbsp;ли есть эта необходимость устроить эту замену за&nbsp;нотис период?</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2088079">Bogdan Shyiak</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-5">
+				<b class="scroll-wrapper" id="2088126"></b>
+
+	<div id="comment_2088126" class="comment g-approved-user">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/silverwolf/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_6233.png" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_6233.png 1.1x">				Bogdan Shyiak
+			</a>
+
+<span class="prof">
+SE or Dev
+				</span>
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2088126">20.03.2021 20:42</a>
+		</div>
+
+		<div class="comment_text b-typo"><blockquote>за&nbsp;месяц&nbsp;— гарантированно.</blockquote>
+
+<p>Ой&nbsp;залежить від ситуації. В&nbsp;нонейм контору навіть адекватного мідла не&nbsp;завжди за&nbsp;місяць знайдете.</p>
+
+<blockquote>Да&nbsp;и&nbsp;всегда&nbsp;ли есть эта необходимость устроить эту замену за&nbsp;нотис период?</blockquote>
+
+<p>Не&nbsp;завжди. Але нотіс період вирішує не&nbsp;стільки завдання «завершення задач», скільки:<br>—&nbsp;організацію&nbsp;КТ (але це&nbsp;скоріше за&nbsp;все помилка менеджменту)<br>—&nbsp;пошук заміни, бо&nbsp;при втраті 1&nbsp;з 5&nbsp;розробників ніхто не&nbsp;збильшить строки делівері на&nbsp;20%</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2088102">Леголас Трандуилович</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-1">
+				<b class="scroll-wrapper" id="2088046"></b>
+
+	<div id="comment_2088046" class="comment">
+		<div class="b-post-author dou-official-person">
+			<a class="avatar" href="https://dou.ua/users/andrew_d/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_anon.png" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_anon.png 1.1x">				Andrew Frolov
+			</a>
+
+
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2088046">20.03.2021 18:14</a>
+		</div>
+
+		<div class="comment_text b-typo"><p>Это стандартная ситуация, если человек идёт в&nbsp;отпуск. Пушит бранч с&nbsp;работой как есть. Но&nbsp;ИМХО, шантажировать доделыванием тасков можно только фрилансера, который работает сдельно. Не&nbsp;контрактора или сотрудника.</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2087998">Pavel Petrichenko</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-0">
+				<b class="scroll-wrapper" id="2087986"></b>
+
+	<div id="comment_2087986" class="comment">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/notus/" target="_blank">
+	<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/40x40_anon.png" width="40" height="40" srcset="https://s.dou.ua/img/avatars/80x80_anon.png 1.1x">
+				notus
+			</a>
+
+
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2087986">20.03.2021 16:02</a>
+		</div>
+
+		<div class="comment_text b-typo"><p>Сейчас джавист в&nbsp;Киеве может выбирать что душе угодно.</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-1">
+				<b class="scroll-wrapper" id="2088415"></b>
+
+	<div id="comment_2088415" class="comment">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/v-m-4/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_063ebe53-5238-422f-baea-25f5f474502e.jpeg" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_063ebe53-5238-422f-baea-25f5f474502e.jpeg 1.1x">				You all know exactly who I am
+			</a>
+
+
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2088415">21.03.2021 15:39</a>
+		</div>
+
+		<div class="comment_text b-typo"><blockquote>Сейчас все dev, qa, devops кроме перлистов и&nbsp;сикрестовиков где угодно в&nbsp;Украине могут выбирать что душе угодно.</blockquote>
+
+<p>Фиксэд зэт фор&nbsp;ю</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2087986">notus</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-0">
+				<b class="scroll-wrapper" id="2087909"></b>
+
+	<div id="comment_2087909" class="comment g-approved-user">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/dn041080pav/" target="_blank">
+	<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/40x40_10320507_761020127282597_2004325160286347248_n1.jpg" width="40" height="40" srcset="https://s.dou.ua/img/avatars/80x80_10320507_761020127282597_2004325160286347248_n1.jpg 1.1x">
+				Олексій Пєніє
+			</a>
+
+<span class="prof">
+Developer, Java
+				</span>
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2087909">20.03.2021 12:59</a>
+		</div>
+
+		<div class="comment_text b-typo"><p>Справедливости не&nbsp;существует. В&nbsp;твоём раскладе я&nbsp;бы подписывал без особых церемоний, если только оффер не&nbsp;подразумевает переезд. На&nbsp;самом деле риск обоюдный&nbsp;— недоделанная работа тот ещё ком в&nbsp;горле: вроде как за&nbsp;неё и&nbsp;заплатить надо, и&nbsp;дописывать стоит дороже чем с&nbsp;нуля.</p>
+
+<p>PS. Ты&nbsp;когда с&nbsp;девушкой встречаешься, расклад ещё жёстче. Только при этом ещё и&nbsp;платишь&nbsp;ты. И&nbsp;ничего, небо на&nbsp;землю не&nbsp;упало. Потому что на&nbsp;чаше весов лежат куда более глубокие и&nbsp;дорогие отношения, и&nbsp;если один из&nbsp;вас не&nbsp;готов принимать их&nbsp;ценность, обесценивает и&nbsp;отравляет, вам лучше расстаться за&nbsp;1&nbsp;день, а&nbsp;то&nbsp;и&nbsp;меньше.</p>
+
+<p>Так что не&nbsp;удивляйся подобным раскладам в&nbsp;трудовых отношениях. И&nbsp;поверь, если ты&nbsp;будешь отравлять процессы, тебя вышвырнут куда раньше 30&nbsp;дней, и&nbsp;даже не&nbsp;факт что за&nbsp;1&nbsp;день, могут и&nbsp;задним числом. И&nbsp;государство за&nbsp;тебя не&nbsp;впишется, разве только попросит денег и&nbsp;потянет время.</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-0">
+				<b class="scroll-wrapper" id="2087885"></b>
+
+	<div id="comment_2087885" class="comment g-approved-user">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/vlad-melnik-2/" target="_blank">
+	<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/40x40_123389.jpg" width="40" height="40" srcset="https://s.dou.ua/img/avatars/80x80_123389.jpg 1.1x">
+				Влад Мельник
+			</a>
+
+<span class="prof">
+Senior StackOverflow Developer
+				</span>
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2087885">20.03.2021 12:29</a>
+		</div>
+
+		<div class="comment_text b-typo"><blockquote>При этом есть штраф в&nbsp;виде 1&nbsp;месячной зарплаты, если прекратил фактическую работу ранее истчения срока notice period. </blockquote>
+
+<p>Опять GL&nbsp;за&nbsp;свое?:)</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-1">
+				<b class="scroll-wrapper" id="2087889"></b>
+
+	<div id="comment_2087889" class="comment">
+		<div class="b-post-author dou-official-person">
+			<a class="avatar" href="https://dou.ua/users/andrew_d/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_anon.png" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_anon.png 1.1x">				Andrew Frolov
+			</a>
+
+
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2087889">20.03.2021 12:35</a>
+		</div>
+
+		<div class="comment_text b-typo"><p>Нет, не&nbsp;GL. <br>Я&nbsp;подозреваю, что договор от&nbsp;посредника (ошибочно, ИМХО) один на&nbsp;аутсорс сотрудничество и&nbsp;на&nbsp;аутстафф. Если в&nbsp;аутсорсе ты&nbsp;берёшься выполнять заказ и&nbsp;вроде&nbsp;бы как отвечаешь за&nbsp;результат. То&nbsp;в&nbsp;аутстаффе ты&nbsp;просто марионетка в&nbsp;крупной структуре, делаешь, что скажут сотрудники клиента, от&nbsp;забора и&nbsp;до&nbsp;обеда, дивгаешь тикеты. Надоело двигать&nbsp;— сообщаешь и&nbsp;в&nbsp;короткий срок уходишь, всё.</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2087885">Влад Мельник</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-2">
+				<b class="scroll-wrapper" id="2087915"></b>
+
+	<div id="comment_2087915" class="comment g-approved-user">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/dn041080pav/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_10320507_761020127282597_2004325160286347248_n1.jpg" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_10320507_761020127282597_2004325160286347248_n1.jpg 1.1x">				Олексій Пєніє
+			</a>
+
+<span class="prof">
+Developer, Java
+				</span>
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2087915">20.03.2021 13:05</a>
+		</div>
+
+		<div class="comment_text b-typo"><p>А&nbsp;разве слово аут стафф не&nbsp;это значит? Только не&nbsp;тебе надоело, а&nbsp;им. И&nbsp;от&nbsp;тебя избавляются. Такова модель бизнеса. И&nbsp;я&nbsp;бы не&nbsp;сказал, что она неправильна. Чем более универсален специалист, тем и&nbsp;ему, и&nbsp;работодателю, выгоднее схема краткосрочного найма. А&nbsp;вот для узких специалистов, которым работу найти сложнее на&nbsp;порядки, но&nbsp;которых и&nbsp;самих найти сложнее&nbsp;— и&nbsp;требуются долгосрочные контракты. А&nbsp;традиционный найм нужен для низкооплачиваемых профессий, где люди жизненно зависят от&nbsp;постоянного дохода&nbsp;— именно эти гарантии позволяют держать зарплаты низкими.</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2087889">Andrew Frolov</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-2">
+				<b class="scroll-wrapper" id="2088089"></b>
+
+	<div id="comment_2088089" class="comment">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/v-m-4/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_063ebe53-5238-422f-baea-25f5f474502e.jpeg" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_063ebe53-5238-422f-baea-25f5f474502e.jpeg 1.1x">				You all know exactly who I am
+			</a>
+
+
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2088089">20.03.2021 19:47</a>
+		</div>
+
+		<div class="comment_text b-typo"><p>На&nbsp;М&nbsp;начинается название.</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2087889">Andrew Frolov</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-3">
+				<b class="scroll-wrapper" id="2088095"></b>
+
+	<div id="comment_2088095" class="comment">
+		<div class="b-post-author dou-official-person">
+			<a class="avatar" href="https://dou.ua/users/andrew_d/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_anon.png" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_anon.png 1.1x">				Andrew Frolov
+			</a>
+
+
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2088095">20.03.2021 19:53</a>
+		</div>
+
+		<div class="comment_text b-typo"><p>Нет, не&nbsp;на&nbsp;«М». )<br>Вот, уже вырисовывается целая перекличка по&nbsp;алфавиту посреднических помоек. Как никогда актуально «Старый друг лучше новых двух», применительно к&nbsp;посредникам.<br>Ещё примерно лет 10&nbsp;назад в&nbsp;депрессивном миллионнике, на&nbsp;слуху было максимум штук 10&nbsp;контор в&nbsp;сфере типа&nbsp;ИТ, в&nbsp;основном, «лидеры рынка» и&nbsp;местечковые рабовладельческие конторки. А&nbsp;сейчас, с&nbsp;карантином и&nbsp;ростом удалёнки в&nbsp;Украине, торговцев людьми просто тьма-тьмущая, репутацией среди работников почти никто не&nbsp;дорожит.</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2088089">You all know exactly who I am</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-4">
+				<b class="scroll-wrapper" id="2088108"></b>
+
+	<div id="comment_2088108" class="comment">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/v-m-4/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_063ebe53-5238-422f-baea-25f5f474502e.jpeg" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_063ebe53-5238-422f-baea-25f5f474502e.jpeg 1.1x">				You all know exactly who I am
+			</a>
+
+
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2088108">20.03.2021 20:06</a>
+		</div>
+
+		<div class="comment_text b-typo"><blockquote>репутацией среди работников почти никто не&nbsp;дорожит.</blockquote>
+
+<p>И&nbsp;это единственно правильное и&nbsp;логичное решение. <br>Зачем труситься за&nbsp;проект, овертаймить, если за&nbsp;забором уже ждет пару десятков торговцев?</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2088095">Andrew Frolov</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-5">
+				<b class="scroll-wrapper" id="2088111"></b>
+
+	<div id="comment_2088111" class="comment">
+		<div class="b-post-author dou-official-person">
+			<a class="avatar" href="https://dou.ua/users/andrew_d/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_anon.png" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_anon.png 1.1x">				Andrew Frolov
+			</a>
+
+
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2088111">20.03.2021 20:11</a>
+		</div>
+
+		<div class="comment_text b-typo"><p>Я&nbsp;имел в&nbsp;виду, что посредники совершенно не&nbsp;заботятся о&nbsp;репутации. Ну&nbsp;т.е. есть&nbsp;те, кто открыл и&nbsp;содержит большие офисные конюшни&nbsp;— крупные аутсорсеры, те. вроде&nbsp;бы ещё соблюдают приличия. Но&nbsp;чтобы быть аутстафф-посредником&nbsp;— достаточно просто зарегистрировать ФОП/ООО, открыть счёт в&nbsp;банке и&nbsp;кидать работников при малейших проблемах, вызванных конечным клиентом.<br>Переименовать бренд аутстафф-посредника без офиса&nbsp;— вообще ничего не&nbsp;стоит.</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2088108">You all know exactly who I am</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-6">
+				<b class="scroll-wrapper" id="2088123"></b>
+
+	<div id="comment_2088123" class="comment">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/v-m-4/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_063ebe53-5238-422f-baea-25f5f474502e.jpeg" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_063ebe53-5238-422f-baea-25f5f474502e.jpeg 1.1x">				You all know exactly who I am
+			</a>
+
+
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2088123">20.03.2021 20:39</a>
+		</div>
+
+		<div class="comment_text b-typo"><p>А. <br>Так я&nbsp;про&nbsp;то, что это работает и&nbsp;для гребцов&nbsp;— наговнокодил, получил пару зарплат, не&nbsp;паришься&nbsp;— еще сотня работ ждет.</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2088111">Andrew Frolov</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-6">
+				<b class="scroll-wrapper" id="2088188"></b>
+
+	<div id="comment_2088188" class="comment g-approved-user">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/dn041080pav/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_10320507_761020127282597_2004325160286347248_n1.jpg" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_10320507_761020127282597_2004325160286347248_n1.jpg 1.1x">				Олексій Пєніє
+			</a>
+
+<span class="prof">
+Developer, Java
+				</span>
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2088188">20.03.2021 22:48</a>
+		</div>
+
+		<div class="comment_text b-typo"><p>Я&nbsp;фразу «конечным клиентом» с&nbsp;четвёртого раза прочитал</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2088111">Andrew Frolov</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-5">
+				<b class="scroll-wrapper" id="2088187"></b>
+
+	<div id="comment_2088187" class="comment g-approved-user">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/dn041080pav/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_10320507_761020127282597_2004325160286347248_n1.jpg" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_10320507_761020127282597_2004325160286347248_n1.jpg 1.1x">				Олексій Пєніє
+			</a>
+
+<span class="prof">
+Developer, Java
+				</span>
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2088187">20.03.2021 22:47</a>
+		</div>
+
+		<div class="comment_text b-typo"><blockquote>если за&nbsp;забором уже ждет пару десятков торговцев</blockquote>
+
+<p>чёрным деревом</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2088108">You all know exactly who I am</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-0">
+				<b class="scroll-wrapper" id="2087866"></b>
+
+	<div id="comment_2087866" class="comment">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/bug87/" target="_blank">
+	<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/40x40_images_1_4olQ7C7.jpg" width="40" height="40" srcset="https://s.dou.ua/img/avatars/80x80_images_1_4olQ7C7.jpg 1.1x">
+				belmondo
+			</a>
+
+
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2087866">20.03.2021 12:07</a>
+		</div>
+
+		<div class="comment_text b-typo"><p>Імхо, я&nbsp;би&nbsp;сказав що&nbsp;чим більший період нотифікації тим краще, мені здається що&nbsp;серйозні компанії з&nbsp;нормальним фінансовим жирком не&nbsp;дурачаться в&nbsp;<nobr>1-5 днів,</nobr> тощо. <br>А&nbsp;щодо штрафів з&nbsp;вашого боку, то&nbsp;це&nbsp;взагалі дічь.</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-1">
+				<b class="scroll-wrapper" id="2087870"></b>
+
+	<div id="comment_2087870" class="comment g-approved-user">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/denys-poltorak/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_60259.jpg" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_60259.jpg 1.1x">				Denys Poltorak
+			</a>
+
+<span class="prof">
+
+				</span>
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2087870">20.03.2021 12:10</a>
+		</div>
+
+		<div class="comment_text b-typo"><p>У&nbsp;довгої нотифікації проблема, що&nbsp;ти&nbsp;не&nbsp;можеш прийняти офер&nbsp;— 3&nbsp;місяці тебе галєра не&nbsp;чекатиме. Треба спочатку звільнятись внікуди, і&nbsp;лише потім&nbsp;— починати шукать роботу й&nbsp;співбесіди ходить.</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2087866">belmondo</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-2">
+				<b class="scroll-wrapper" id="2087877"></b>
+
+	<div id="comment_2087877" class="comment">
+		<div class="b-post-author dou-official-person">
+			<a class="avatar" href="https://dou.ua/users/andrew_d/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_anon.png" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_anon.png 1.1x">				Andrew Frolov
+			</a>
+
+
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2087877">20.03.2021 12:18</a>
+		</div>
+
+		<div class="comment_text b-typo"><p>Я&nbsp;так тоже думаю. Либо должен быть severance package, допустим, 2&nbsp;месяца, как по&nbsp;КЗОТу в&nbsp;РФ. Либо оплата помесячно должна быть такой, чтобы, как известный форумный персонаж Кодерок, на&nbsp;финансовую подушку можно было снимать квартиры и&nbsp;несколько месяцев валять дурака на&nbsp;форуме, без ущерба для долгосрочных финансовых целей. Синьоры 4k-5k в&nbsp;Украине точно под критерии материально защищённых не&nbsp;попадают.</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2087870">Denys Poltorak</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-3">
+				<b class="scroll-wrapper" id="2087881"></b>
+
+	<div id="comment_2087881" class="comment g-approved-user">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/denys-poltorak/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_60259.jpg" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_60259.jpg 1.1x">				Denys Poltorak
+			</a>
+
+<span class="prof">
+
+				</span>
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2087881">20.03.2021 12:22</a>
+		</div>
+
+		<div class="comment_text b-typo"><p>за&nbsp;5к&nbsp;можно жить несколько месяцев.<br>и&nbsp;если контора тебя увольняет&nbsp;— она тебе платит за&nbsp;нотификационный период.&nbsp;ты&nbsp;там можешь дела передавать, но&nbsp;обычно это быстрее делается</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2087877">Andrew Frolov</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-4">
+				<b class="scroll-wrapper" id="2087894"></b>
+
+	<div id="comment_2087894" class="comment">
+		<div class="b-post-author dou-official-person">
+			<a class="avatar" href="https://dou.ua/users/andrew_d/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_anon.png" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_anon.png 1.1x">				Andrew Frolov
+			</a>
+
+
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2087894">20.03.2021 12:40</a>
+		</div>
+
+		<div class="comment_text b-typo"><blockquote>за&nbsp;5к&nbsp;можно жить несколько месяцев.</blockquote>
+
+<p>Это мы&nbsp;как&nbsp;бы тут, в&nbsp;Украине, понимаем, что можно сесть на&nbsp;хлеб и&nbsp;воду, в&nbsp;своей квартире, и&nbsp;жить несколько месяцев. Если работаешь full-time, под угрозой кидка на&nbsp;последнюю з/п, то&nbsp;«хэджировать» с&nbsp;этих условных 5k&nbsp;нужно очень значительную сумму каждый месяц. Не&nbsp;думаю, что кто-то будет реально 2&nbsp;месяца неспешно передавать дела, чисто формально отмечаться в&nbsp;табеле о&nbsp;выходе на&nbsp;рабочую смену. А&nbsp;реально&nbsp;80% времени сидеть на&nbsp;собеседованиях в&nbsp;Zoom и&nbsp;т.п.</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2087881">Denys Poltorak</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-5">
+				<b class="scroll-wrapper" id="2088071"></b>
+
+	<div id="comment_2088071" class="comment">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/clewer_one/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_3693.png" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_3693.png 1.1x">				Леголас Трандуилович
+			</a>
+
+
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2088071">20.03.2021 19:12</a>
+		</div>
+
+		<div class="comment_text b-typo"><blockquote>Если работаешь full-time, под угрозой кидка на&nbsp;последнюю з/п, то&nbsp;«хэджировать» с&nbsp;этих условных 5k&nbsp;нужно очень значительную сумму каждый месяц.</blockquote>
+
+<p>Госпади, «хеджируешь» по&nbsp;штуке в&nbsp;месяц, через пол-года имеешь «подушку» на&nbsp;<nobr>2-3</nobr> «экономных» месяца. Всего-то делов.</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2087894">Andrew Frolov</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-6">
+				<b class="scroll-wrapper" id="2088077"></b>
+
+	<div id="comment_2088077" class="comment">
+		<div class="b-post-author dou-official-person">
+			<a class="avatar" href="https://dou.ua/users/andrew_d/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_anon.png" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_anon.png 1.1x">				Andrew Frolov
+			</a>
+
+
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2088077">20.03.2021 19:20</a>
+		</div>
+
+		<div class="comment_text b-typo"><p>Оно то&nbsp;вроде так, но&nbsp;это&nbsp;же не&nbsp;единственная статья «хэджирования». $1500-$2000 нужно каждый месяц откалдывать на&nbsp;старость (с&nbsp;условных 45&nbsp;лет), на&nbsp;отпуск, на&nbsp;медицину, на&nbsp;покупку жилья (если пока своего нет), на&nbsp;аренду. В&nbsp;итоге получается, что денег вроде заходит немало, и&nbsp;подушка есть, но&nbsp;тратить «в&nbsp;никуда» (рестораны, айфоны/ноутбуки и&nbsp;т.п.)&nbsp;— почти ничего не&nbsp;остаётся. Так как платят на&nbsp;украинском рынке предложений посредников&nbsp;— относительный мизер, обсжудали&nbsp;же в&nbsp;«Нищей Европе» и&nbsp;более свежих тракторных темах.</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2088071">Леголас Трандуилович</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-7">
+				<b class="scroll-wrapper" id="2088090"></b>
+
+	<div id="comment_2088090" class="comment">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/v-m-4/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_063ebe53-5238-422f-baea-25f5f474502e.jpeg" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_063ebe53-5238-422f-baea-25f5f474502e.jpeg 1.1x">				You all know exactly who I am
+			</a>
+
+
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2088090">20.03.2021 19:49</a>
+		</div>
+
+		<div class="comment_text b-typo"><blockquote>$1500-$2000 нужно каждый месяц откалдывать на&nbsp;старость (с&nbsp;условных 45&nbsp;лет),</blockquote>
+
+<p>Не&nbsp;работает. <br>Они просто исчезают:</p>
+
+<p><a href="https://dou.ua/forums/topic/32688/" target="_blank">dou.ua/forums/topic/32688</a></p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2088077">Andrew Frolov</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-8">
+				<b class="scroll-wrapper" id="2088110"></b>
+
+	<div id="comment_2088110" class="comment">
+		<div class="b-post-author dou-official-person">
+			<a class="avatar" href="https://dou.ua/users/andrew_d/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_anon.png" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_anon.png 1.1x">				Andrew Frolov
+			</a>
+
+
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2088110">20.03.2021 20:07</a>
+		</div>
+
+		<div class="comment_text b-typo"><p>Это то&nbsp;количество фиата, которое должно быть выведено с&nbsp;ежемесячного потребления и&nbsp;направлено в&nbsp;активы: золото, бетон, фондовый рынок и&nbsp;т.п.</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2088090">You all know exactly who I am</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-9">
+				<b class="scroll-wrapper" id="2088124"></b>
+
+	<div id="comment_2088124" class="comment">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/v-m-4/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_063ebe53-5238-422f-baea-25f5f474502e.jpeg" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_063ebe53-5238-422f-baea-25f5f474502e.jpeg 1.1x">				You all know exactly who I am
+			</a>
+
+
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2088124">20.03.2021 20:41</a>
+		</div>
+
+		<div class="comment_text b-typo"><p>До&nbsp;очередного прыжка золота вверх можно и&nbsp;не&nbsp;дожить. <br>А&nbsp;в&nbsp;регионах его и&nbsp;не&nbsp;купить&nbsp;— крупнейший торговец, юнекс, прекратил продавать в&nbsp;Одессе.</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2088110">Andrew Frolov</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-10">
+				<b class="scroll-wrapper" id="2088128"></b>
+
+	<div id="comment_2088128" class="comment">
+		<div class="b-post-author dou-official-person">
+			<a class="avatar" href="https://dou.ua/users/andrew_d/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_anon.png" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_anon.png 1.1x">				Andrew Frolov
+			</a>
+
+
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2088128">20.03.2021 20:48</a>
+		</div>
+
+		<div class="comment_text b-typo"><blockquote>А&nbsp;в&nbsp;регионах его и&nbsp;не&nbsp;купить </blockquote>
+
+<p>Серьёзно? И&nbsp;что, нельзя в&nbsp;Приватбанке заказать слиток?<br>Я&nbsp;видел в&nbsp;Измире, <nobr>2-й</nobr> или <nobr>3-й</nobr> мегаполис Турции&nbsp;— золотые слитки продаются в&nbsp;центре города в&nbsp;конторах типа Western Union/финансовые услуги.</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2088124">You all know exactly who I am</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-7">
+				<b class="scroll-wrapper" id="2088100"></b>
+
+	<div id="comment_2088100" class="comment">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/clewer_one/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_3693.png" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_3693.png 1.1x">				Леголас Трандуилович
+			</a>
+
+
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2088100">20.03.2021 19:57</a>
+		</div>
+
+		<div class="comment_text b-typo"><blockquote>но&nbsp;это&nbsp;же не&nbsp;единственная статья «хэджирования»</blockquote>
+
+<p>Если вы&nbsp;настолько серьёзно «хеджируете» то&nbsp;и&nbsp;риск краткосрочно безработицы у&nbsp;вас должен быть давно «схеджирован», по-моему в&nbsp;этих условиях вы&nbsp;его слишком драматизировали. Я&nbsp;бы как-раз таки больше переживал за&nbsp;перспективы на&nbsp;старость или медицину. Просто потому что сохранить большие суммы в&nbsp;долгосрочной перспективе заметно сложнее чем подушку на&nbsp;пару месяцев.<br></p><blockquote>но&nbsp;тратить «в&nbsp;никуда» (рестораны, айфоны/ноутбуки и&nbsp;т.п.)&nbsp;— почти ничего не&nbsp;остаётся</blockquote>
+
+<p>Ну&nbsp;так это вроде в&nbsp;целом нормально.</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2088077">Andrew Frolov</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-3">
+				<b class="scroll-wrapper" id="2088068"></b>
+
+	<div id="comment_2088068" class="comment">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/clewer_one/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_3693.png" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_3693.png 1.1x">				Леголас Трандуилович
+			</a>
+
+
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2088068">20.03.2021 19:08</a>
+		</div>
+
+		<div class="comment_text b-typo"><blockquote>Синьоры 4k-5k в&nbsp;Украине точно под критерии материально защищённых не&nbsp;попадают.</blockquote>
+
+<p>Да&nbsp;ладно?</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2087877">Andrew Frolov</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-2">
+				<b class="scroll-wrapper" id="2088067"></b>
+
+	<div id="comment_2088067" class="comment">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/clewer_one/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_3693.png" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_3693.png 1.1x">				Леголас Трандуилович
+			</a>
+
+
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2088067">20.03.2021 19:08</a>
+		</div>
+
+		<div class="comment_text b-typo"><blockquote>Треба спочатку звільнятись внікуди, і&nbsp;лише потім&nbsp;— починати шукать роботу й&nbsp;співбесіди ходить.</blockquote>
+
+<p>Да&nbsp;тоже можно.&nbsp;2&nbsp;месяца достаточный срок на&nbsp;поиски, риск посидеть недельку-другую без работы можно расценивать как маленький отпуск за&nbsp;свой счет. Ну&nbsp;и&nbsp;«сжечь корабли» если принял решение не&nbsp;такое уж&nbsp;и&nbsp;безпросветно-плохое начала новых поисков. Мне нравиться моменты когда уже «всем все понятно» и&nbsp;когда от&nbsp;расплывчатых планов на&nbsp;будущее вы&nbsp;просто обговариваете как вам расстаться. У&nbsp;меня в&nbsp;такое время очень сильно понижается эмоциональная вовлеченность в&nbsp;происходящее, просто как камень с&nbsp;сердца падает.</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2087870">Denys Poltorak</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-2">
+				<b class="scroll-wrapper" id="2088251"></b>
+
+	<div id="comment_2088251" class="comment g-approved-user">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/artem-kurakin/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_92854.jpg" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_92854.jpg 1.1x">				Artem Kurakin
+			</a>
+
+<span class="prof">
+Software Architect
+				</span>
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2088251">21.03.2021 01:51</a>
+		</div>
+
+		<div class="comment_text b-typo"><p>Ну&nbsp;а&nbsp;что случится-то? Максимум часть месячной зарплаты потеряешь и&nbsp;все?</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2087870">Denys Poltorak</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-2">
+				<b class="scroll-wrapper" id="2089151"></b>
+
+	<div id="comment_2089151" class="comment">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/bug87/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_images_1_4olQ7C7.jpg" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_images_1_4olQ7C7.jpg 1.1x">				belmondo
+			</a>
+
+
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2089151">22.03.2021 14:20</a>
+		</div>
+
+		<div class="comment_text b-typo"><p>я&nbsp;скоріше мав на&nbsp;увазі пункт де&nbsp;компанія може звільнити людину на&nbsp;2-3-10&nbsp;день, тобто менше місяця. <br>сказав би&nbsp;з&nbsp;власного досвіду що&nbsp;так любить перестраховувати себе різна шпана. <br>серйозні компанії беруть на&nbsp;випробувальний сроком від 2х&nbsp;місяців, тобто якщо людина з&nbsp;якихось причини не&nbsp;підійшла, забухала, просто ніфіга не&nbsp;робила&nbsp;— ніхто не&nbsp;скупиться на&nbsp;тих 2&nbsp;зарплати, навіть якщо це&nbsp;були гроші на&nbsp;вітер. щоб зрозуміти підійде людина чи&nbsp;ні&nbsp;є&nbsp;співбесіда.&nbsp;не&nbsp;уявляю аби гугл чи&nbsp;амазон взяли людину і&nbsp;звільнили на&nbsp;наступний день.</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2087870">Denys Poltorak</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-0">
+				<b class="scroll-wrapper" id="2087865"></b>
+
+	<div id="comment_2087865" class="comment g-approved-user">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/silverwolf/" target="_blank">
+	<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/40x40_6233.png" width="40" height="40" srcset="https://s.dou.ua/img/avatars/80x80_6233.png 1.1x">
+				Bogdan Shyiak
+			</a>
+
+<span class="prof">
+SE or Dev
+				</span>
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2087865">20.03.2021 12:06</a>
+		</div>
+
+		<div class="comment_text b-typo"><blockquote>Справедливый notice period в&nbsp;аутстаффинге</blockquote>
+
+<p>Забудьте слово «справедливість», коли мова йде про роботу.<br>Погоджуйтесь на&nbsp;той період, який вас влаштовує. Якщо ок&nbsp;60&nbsp;днів, то&nbsp;погоджуйтесь. Особисто для мене більше 30&nbsp;днів&nbsp;— вже недолік, бо&nbsp;в&nbsp;реальності навряд чи&nbsp;хто буде чекати такий період, у&nbsp;разі якщо я&nbsp;захочу змінити контракт.</p>
+
+<blockquote> в&nbsp;течение первых 5(!) дней работы менеджер конторы, где фактически буду работать, оставляет право отказаться от&nbsp;меня за&nbsp;1&nbsp;день. Далее, в&nbsp;течение <nobr>3-месячного</nobr> испытательного срока&nbsp;— notice period составляет обоюдно 14&nbsp;дней. В&nbsp;основной период сотрудничества предлагают notice period такой: со&nbsp;стороны аутстафф-посредника&nbsp;— 30&nbsp;дней, а&nbsp;со&nbsp;стороны меня, исполнителя&nbsp;— предлагали 60&nbsp;дней....При этом есть штраф в&nbsp;виде 1&nbsp;месячной зарплаты, если прекратил фактическую работу ранее истчения срока notice period. </blockquote>
+
+<p>Контракт складений, щоб захистити рівно 1&nbsp;сторону&nbsp;— замовника, і&nbsp;не&nbsp;враховує інтереси виконавця. Особисто для мене, це&nbsp;шоустопер. Навряд чи&nbsp;робочі процеси в&nbsp;такій компанії будуть враховувати інтереси виконавця (особливо, якщо інтереси замовника вже захищені контрактом).</p>
+
+<p>Останній пункт&nbsp;— це&nbsp;взагалі амба. Фактично він дає можливість «нагинати» виконавця як&nbsp;завгодно:<br>Якщо не&nbsp;згодні, що&nbsp;працювали, то&nbsp;йдіть у&nbsp;суд і&nbsp;доводьте, що&nbsp;заробили гроші, які хочете отримати. Не&nbsp;доведете&nbsp;— втратили місячний дохід, довели&nbsp;— молодець, отримаєте те&nbsp;що&nbsp;вже заробили.</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-0">
+				<b class="scroll-wrapper" id="2087860"></b>
+
+	<div id="comment_2087860" class="comment g-approved-user">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/denys-poltorak/" target="_blank">
+	<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/40x40_60259.jpg" width="40" height="40" srcset="https://s.dou.ua/img/avatars/80x80_60259.jpg 1.1x">
+				Denys Poltorak
+			</a>
+
+<span class="prof">
+
+				</span>
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2087860">20.03.2021 12:02</a>
+		</div>
+
+		<div class="comment_text b-typo"><p>Обычно:<br>* испытательный 3&nbsp;месяца.&nbsp;во&nbsp;время испытательного любая сторона может разорвать контракт сегодняшним днем.<br>* период нотификации после испытательного 1&nbsp;месяц с&nbsp;обоих сторон.<br>* штрафов нет, потому что нельзя заставить программиста качественно работать, если он&nbsp;не&nbsp;хочет.</p>
+
+<p>Бывает другая длина нотификации&nbsp;— у&nbsp;меня на&nbsp;последнем проекте была 3&nbsp;месяца. Потому что очень редкий скилл сет нужен, и&nbsp;тяжело такое найти.</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-1">
+				<b class="scroll-wrapper" id="2088101"></b>
+
+	<div id="comment_2088101" class="comment">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/flyman/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_4028.JPG" width="25" height="25" srcset="https://s.dou.ua/wp_uploads/members/p/50x50_4028.JPG 1.1x">				flyman
+			</a>
+
+
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2088101">20.03.2021 19:57</a>
+		</div>
+
+		<div class="comment_text b-typo"><blockquote>* испытательный 3&nbsp;месяца.&nbsp;во&nbsp;время испытательного любая сторона может разорвать контракт сегодняшним днем.</blockquote>
+
+<p>у&nbsp;ФОП ?<br>чи&nbsp;у&nbsp;найманого?</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2087860">Denys Poltorak</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-2">
+				<b class="scroll-wrapper" id="2088103"></b>
+
+	<div id="comment_2088103" class="comment g-approved-user">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/denys-poltorak/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_60259.jpg" width="25" height="25" srcset="https://s.dou.ua/img/avatars/50x50_60259.jpg 1.1x">				Denys Poltorak
+			</a>
+
+<span class="prof">
+
+				</span>
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2088103">20.03.2021 20:03</a>
+		</div>
+
+		<div class="comment_text b-typo"><p>ФОП</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2088101">flyman</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-3">
+				<b class="scroll-wrapper" id="2088104"></b>
+
+	<div id="comment_2088104" class="comment">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/flyman/" target="_blank">
+							<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/25x25_4028.JPG" width="25" height="25" srcset="https://s.dou.ua/wp_uploads/members/p/50x50_4028.JPG 1.1x">				flyman
+			</a>
+
+
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2088104">20.03.2021 20:05</a>
+		</div>
+
+		<div class="comment_text b-typo"><p>гагага</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+<a class="parent-link" href="https://dou.ua/forums/topic/33060/#2088103">Denys Poltorak</a>		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-0">
+				<b class="scroll-wrapper" id="2087841"></b>
+
+	<div id="comment_2087841" class="comment">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/o-z/" target="_blank">
+	<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/40x40_53976.jpg" width="40" height="40" srcset="https://s.dou.ua/img/avatars/80x80_53976.jpg 1.1x">
+				осокор тауер
+			</a>
+
+
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2087841">20.03.2021 11:43</a>
+		</div>
+
+		<div class="comment_text b-typo"><p>Мені здається що&nbsp;і&nbsp;14&nbsp;днів, і&nbsp;місяць і&nbsp;навіть два&nbsp;— норма. Головне, щоб все було симетрично. В&nbsp;вашій пропозиції цього точно не&nbsp;було, тому варіант неприйнятний.</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-0">
+				<b class="scroll-wrapper" id="2087837"></b>
+
+	<div id="comment_2087837" class="comment g-approved-user">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/Dwarf/" target="_blank">
+	<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/40x40_6065.png" width="40" height="40" srcset="https://s.dou.ua/img/avatars/80x80_6065.png 1.1x">
+				Sergii Marushchenko
+			</a>
+
+<span class="prof">
+.NET
+				</span>
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2087837">20.03.2021 11:39</a>
+		</div>
+
+		<div class="comment_text b-typo"><p>Сам зіткнувся з&nbsp;подібним, коли шукав роботу. Була компанія, де&nbsp;ми&nbsp;з (арабським) замовником поговорили про технології і&nbsp;життя, після чого мені оголосили, що&nbsp;беруть, але мало того, що&nbsp;через якісь свої внутрішні проблеми не&nbsp;могли оформити офер якийсь час, то&nbsp;ще&nbsp;й&nbsp;чесно розповіли про свій принцип&nbsp;— випробувальний п‘ять днів, якщо за&nbsp;цей час з‘ясується, що&nbsp;ти&nbsp;десь збрехав про досвід і&nbsp;навички, то&nbsp;прощаємось миттєво.<br>Офер від них нарешті прийшов, але в&nbsp;той день, коли я&nbsp;вже підписував інший офер, зі&nbsp;своєю поточною компанією...<br>Ці&nbsp;п‘ять днів&nbsp;то, звісно, мудро десь і&nbsp;цікаво, але якось починати наново з&nbsp;тієї причини, що&nbsp;недостатньо познайомилися, нуу... Лише в&nbsp;офісі поточної компанії я&nbsp;на&nbsp;той момент був уп‘яте (пробувався на&nbsp;другий проєкт, на&nbsp;перший взяли іншого), і&nbsp;мав певне враження щодо всього. А&nbsp;тут повністю ремоут, дві співбесіди і&nbsp;тільки запросили в&nbsp;офіс подивитися-познайомитися, коли я&nbsp;почав вагатися...</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+
+
+
+
+
+
+
+
+			<div class="b-comment level-0">
+				<b class="scroll-wrapper" id="2087792"></b>
+
+	<div id="comment_2087792" class="comment g-approved-user">
+		<div class="b-post-author ">
+			<a class="avatar" href="https://dou.ua/users/sarieflive-/" target="_blank">
+	<img class="g-avatar" src="./Справедливый notice period в аутстаффинге _ DOU_files/40x40_101567.jpg" width="40" height="40" srcset="https://s.dou.ua/img/avatars/80x80_101567.jpg 1.1x">
+				Андрей Плотников
+			</a>
+
+<span class="prof">
+Java Software Engineer
+				</span>
+			<a class="comment-link" href="https://dou.ua/forums/topic/33060/#2087792">20.03.2021 10:03</a>
+		</div>
+
+		<div class="comment_text b-typo"><blockquote>погода&nbsp;— жуть</blockquote>
+
+<p>ну&nbsp;не&nbsp;знаю, у&nbsp;меня за&nbsp;окном солнышко, птички даже поют. По-моему погода норм</p></div>
+
+
+
+		<div class="bottom-line">
+<a class="answer-link" href="javascript:;">Відповісти</a>
+
+<div class="support "><a href="javascript:;">
+						Підтримати
+					</a></div>
+				<div class="b-edit-delete">
+
+				</div>
+
+		</div>
+
+		<div class="sup-users">
+		</div>
+	</div>
+			</div>
+
+			</div>
+			
+		</div>
+
+		<script>
+			window.POST_ID = 82956;
+			window.SUBSCRIBED = false;
+			window.COMMENTS_URL = "https://dou.ua/comment-action/";
+			window.DELETE_ENTRY_URL = "https://dou.ua/comment-delete/";
+			window.CHANGE_URL = "https://dou.ua/comment-gettext/";
+		</script>
+
+
+
+		<div id="subscribeDialog" class="b-comments-dialog">
+		<div class="container">
+			<h4 class="title">Підписатись на коментарі</h4>
+
+			<div class="data table">
+				<div class="row">
+					<div class="cell"><label for="sEmail">Ваша пошта</label></div>
+					<div class="cell"><input id="sEmail" class="first" name="email" type="email" value=""></div>
+				</div>
+			</div>
+			<div class="send">
+				<div class="table">
+					<div class="row">
+						<div class="cell">
+							<div class="b-buttons">
+								<button class="win-button disabled">
+									<span class="out"><span class="button">Підписатись</span></span>
+								</button>
+								<div class="little-loading"></div>
+							</div>
+						</div>
+						<div class="cell right-cell">
+							<div class="cancel">
+								<a href="javascript:;">Не підписуватись</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+			</div>
+
+				<div class="cell"></div>
+				<aside class="cell b-right-side" id="fixedableRightSide">
+
+										<div class="b-adv-events">
+			<h4 class="title">Не пропустіть</h4>
+
+				<div class="adv-event-block">
+					<div class="date">
+						24 березня, Online					</div>
+
+					<a class="link" href="https://dou.ua/calendar/36746/?from=premiumevents_6083" target="_blank">
+								<div class="img">
+									<img src="./Справедливый notice period в аутстаффинге _ DOU_files/6b19df533e05749eb4d2ec87b0f7c6c1.png" srcset="https://s.dou.ua/CACHE/images/gstatic/adv_events/200-1200%D1%85628-v5-violet-red2x/af75b897eed935300b5e3639de07f202.png 1.1x">
+								</div>
+
+						Open Tech Week: Mobile
+					</a>
+				</div>
+				<div class="adv-event-block">
+					<div class="date">
+						25 березня, Online					</div>
+
+					<a class="link" href="https://dou.ua/calendar/36795/?from=premiumevents_6088" target="_blank">
+								<div class="img">
+									<img src="./Справедливый notice period в аутстаффинге _ DOU_files/506a7cd2df453a107ff0c11b6e1fbd74.png" srcset="https://s.dou.ua/CACHE/images/gstatic/adv_events/200x120_Webinar/dedf6c1707b6a1fe327f287635974fe4.png 1.1x">
+								</div>
+
+						Java Webinar #8: “High-Performance Systems Design”
+					</a>
+				</div>
+				<div class="adv-event-block">
+					<div class="date">
+						25 березня, Online					</div>
+
+					<a class="link" href="https://dou.ua/calendar/36553/?from=premiumevents_6048" target="_blank">
+								<div class="img">
+									<img src="./Справедливый notice period в аутстаффинге _ DOU_files/eded37bcc00e1f4fa3c1d5200d4c2cfe.png" srcset="https://s.dou.ua/CACHE/images/gstatic/adv_events/200x120_var2/586a80d20425a4ab4fa88618961a6999.png 1.1x">
+								</div>
+
+						DOU webinar #1. Live-дискусія DevOps
+					</a>
+				</div>
+				<div class="adv-event-block">
+					<div class="date">
+						25 березня — 15 квітня, Online					</div>
+
+					<a class="link" href="https://dou.ua/calendar/36568/?from=premiumevents_6097" target="_blank">
+								<div class="img">
+									<img src="./Справедливый notice period в аутстаффинге _ DOU_files/247088867a445e0a49636060dc6f58af.png" srcset="https://s.dou.ua/CACHE/images/gstatic/adv_events/Untitled_design-2/49125efdc5a38a3b8325dd57b445c795.png 1.1x">
+								</div>
+
+						Курс «TechMind Pro&nbsp;— об&nbsp;архитектуре проекта простым языком»
+					</a>
+				</div>
+				<div class="adv-event-block">
+					<div class="date">
+						27 березня, Online					</div>
+
+					<a class="link" href="https://dou.ua/calendar/36754/?from=premiumevents_6079" target="_blank">
+								<div class="img">
+									<img src="./Справедливый notice period в аутстаффинге _ DOU_files/7070cc58ccb2ff772265834737018880.png" srcset="https://s.dou.ua/CACHE/images/gstatic/adv_events/dou_small_eAqmhCM/81e5f70d4a96c8d7ccfecc7d8ad2fe91.png 1.1x">
+								</div>
+
+						Java Hiring Day
+					</a>
+				</div>
+				<div class="adv-event-block">
+					<div class="date">
+						27 березня, Online					</div>
+
+					<a class="link" href="https://dou.ua/calendar/36827/?from=premiumevents_6087" target="_blank">
+								<div class="img">
+									<img src="./Справедливый notice period в аутстаффинге _ DOU_files/6fc0d509ddbcf2f062ec6acacc64cab7.png" srcset="https://s.dou.ua/CACHE/images/gstatic/adv_events/dou2_Yn99cwm/90a66447adc5e9ae7094f9bab4ff6bc2.png 1.1x">
+								</div>
+
+						JS&nbsp;Hiring Day
+					</a>
+				</div>
+				<div class="adv-event-block">
+					<div class="date">
+						29 березня — 2 квітня, Online					</div>
+
+					<a class="link" href="https://dou.ua/calendar/36874/?from=premiumevents_6093" target="_blank">
+								<div class="img">
+									<img src="./Справедливый notice period в аутстаффинге _ DOU_files/ba10c6ef6d119932e3366bc8fd666e81.png" srcset="https://s.dou.ua/CACHE/images/gstatic/adv_events/200-logo_dQuGkFb/da49bf57d7b4195546cdc2726619523f.png 1.1x">
+								</div>
+
+						EPAM Big Data Hiring Week
+					</a>
+				</div>
+				<div class="adv-event-block">
+					<div class="date">
+						30 березня, Online					</div>
+
+					<a class="link" href="https://dou.ua/calendar/36574/?from=premiumevents_6073" target="_blank">
+								<div class="img">
+									<img src="./Справедливый notice period в аутстаффинге _ DOU_files/81521ed3dfa6883b1a7f5064618dc9c2.png" srcset="https://s.dou.ua/CACHE/images/gstatic/adv_events/3_3C70DEL_O6jilc0/511441bc8bee83f3435430f63b30fa8d.png 1.1x">
+								</div>
+
+						Офер за&nbsp;1&nbsp;день в&nbsp;команду BetterMe
+					</a>
+				</div>
+				<div class="adv-event-block">
+					<div class="date">
+						31 березня, Online					</div>
+
+					<a class="link" href="https://dou.ua/calendar/36522/?from=premiumevents_6084" target="_blank">
+								<div class="img">
+									<img src="./Справедливый notice period в аутстаффинге _ DOU_files/539042f268e6179346d29d486f702176.png" srcset="https://s.dou.ua/CACHE/images/gstatic/adv_events/200x120_Camp/1599b060c3eafb52ec5efc20725f0f09.png 1.1x">
+								</div>
+
+						iDeals QA&nbsp;Hiring Camp
+					</a>
+				</div>
+				<div class="adv-event-block">
+					<div class="date">
+						10 квітня, Київ					</div>
+
+					<a class="link" href="https://dou.ua/calendar/36878/?from=premiumevents_6094" target="_blank">
+								<div class="img">
+									<img src="./Справедливый notice period в аутстаффинге _ DOU_files/af5f2f17c8789cad613faa697a78e6f3.png" srcset="https://s.dou.ua/CACHE/images/gstatic/adv_events/200-%D0%BE%D0%B1%D0%BB%D0%BA%D0%B0%D0%B4%D0%B8%D0%BD%D0%BA%D0%B0/48f6a22024991c161d1af0664e5b9ccf.png 1.1x">
+								</div>
+
+						ucode open day
+					</a>
+				</div>
+		</div>
+
+	<script>
+		impressions.push({'adv_events': [6083, 6088, 6048, 6097, 6079, 6087, 6093, 6073, 6084, 6094]});
+	</script>
+
+
+
+
+						<div class="g-clear"></div>
+						<div class="b-sticky-right-side">
+							<div class="l-sticky-wrap">
+								<div class="l-sticky-group" style="display: block;">
+									<div class="l-sticky-item">
+														
+        	<div class="b-dou-vacancies">
+
+		<h4 class="title __hot">Гарячі вакансії</h4>
+
+			<ul class="vacancies-list">
+
+
+				<li>
+					<a href="https://jobs.dou.ua/companies/preply/vacancies/149386/?from=widget_hot">Back-end Engineer (Platform tribe)</a> в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/preply/?from=widget"><img src="./Справедливый notice period в аутстаффинге _ DOU_files/preply.png" srcset="//s.dou.ua/img/static/favicons/p32_b8LKcuB.png 1.1x">Preply</a><span style="color: #787575;">, Київ</span>				</li>
+
+
+				<li>
+					<a href="https://jobs.dou.ua/companies/se-ranking/vacancies/152989/?from=widget_hot">Recruiter</a> в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/se-ranking/?from=widget_similar"><img src="./Справедливый notice period в аутстаффинге _ DOU_files/sr16a.png" srcset="//s.dou.ua/img/static/favicons/sr32.png 1.1x">SE Ranking</a><span style="color: #787575;">, Київ</span>				</li>
+
+
+				<li>
+					<a href="https://jobs.dou.ua/companies/sdl-tridion-development-lab-ukraine/vacancies/83821/?from=widget_hot">Middle QA Engineer (Junior Automation JS/C#)</a> в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/sdl-tridion-development-lab-ukraine/?from=widget_hot"><img src="./Справедливый notice period в аутстаффинге _ DOU_files/s16_KgWcScI.png" srcset="//s.dou.ua/img/static/favicons/s32_i5uInO7.png 1.1x">SDL</a><span style="color: #787575;">, Київ</span>				</li>
+
+
+				<li>
+					<a href="https://jobs.dou.ua/companies/gorilla-gmbh/vacancies/154985/?from=widget_hot">Strong Junior/Middle React Developer - full remote</a> в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/gorilla-gmbh/?from=widget"><img src="./Справедливый notice period в аутстаффинге _ DOU_files/16_lUC5gAg.png" srcset="//s.dou.ua/img/static/favicons/32_HOH90V4.png 1.1x">Livereach</a><span style="color: #787575;">, віддалено</span>				</li>
+
+
+				<li>
+					<a href="https://jobs.dou.ua/companies/seniordevonly/vacancies/155519/?from=widget_hot">Front-end developer (Angular/React)</a> в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/seniordevonly/?from=widget_hot"><img src="./Справедливый notice period в аутстаффинге _ DOU_files/sdo.png" srcset="//s.dou.ua/img/static/favicons/s32_pTg0Lwq.png 1.1x">Seniordev</a><span style="color: #787575;">, Київ, Львів</span>				</li>
+
+
+				<li>
+					<a href="https://jobs.dou.ua/companies/stakelogic/vacancies/152730/?from=widget_hot">Technical Artist</a> в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/stakelogic/?from=widget_hot"><img src="./Справедливый notice period в аутстаффинге _ DOU_files/16_xsbQAKq.png" srcset="//s.dou.ua/img/static/favicons/32_3uh06qu.png 1.1x">Stakelogic</a><span style="color: #787575;">, Київ</span>				</li>
+
+
+				<li>
+					<a href="https://jobs.dou.ua/companies/allstars-it/vacancies/155265/?from=widget_hot">Lead Machine Learning Trainer (Data Labeling)</a> в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/allstars-it/?from=widget"><img src="./Справедливый notice period в аутстаффинге _ DOU_files/16_Noqpnkq.png" srcset="//s.dou.ua/img/static/favicons/32_Ujq9L3n.png 1.1x">AllStars-IT</a><span style="color: #787575;">, Київ</span>				</li>
+
+
+				<li>
+					<a href="https://jobs.dou.ua/companies/dataart/vacancies/155233/?from=widget_hot">Ruby Developer</a> в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/dataart/?from=widget"><img src="./Справедливый notice period в аутстаффинге _ DOU_files/16_vF17PH7.png" srcset="//s.dou.ua/img/static/favicons/32_0OCVxOP.png 1.1x">DataArt</a><span style="color: #787575;">, Київ, Харків, Львів, Дніпро, Одеса, Херсон, віддалено</span>				</li>
+
+
+				<li>
+					<a href="https://jobs.dou.ua/companies/dataart/vacancies/155235/?from=widget_hot">Data Engineer, Financial Services</a> в&nbsp;<a class="company" href="https://jobs.dou.ua/companies/dataart/?from=widget"><img src="./Справедливый notice period в аутстаффинге _ DOU_files/16_vF17PH7.png" srcset="//s.dou.ua/img/static/favicons/32_0OCVxOP.png 1.1x">DataArt</a><span style="color: #787575;">, Київ, Харків, Львів, Дніпро, Одеса, Херсон, віддалено</span>				</li>
+	</ul>
+
+
+		<a class="more" href="https://jobs.dou.ua/?from=widget">Всі вакансії</a>
+	</div>
+
+    
+
+									</div>
+								</div>
+
+
+
+																			<div class="l-sticky-group" style="display: none; position: relative; visibility: visible;">
+										<h3 style="font-size:27px;font-weight:normal;width:240px;margin:0 auto 14px auto;">Цікаві статті</h3>
+
+											<div class="l-sticky-item">
+												<div class="l-sticky-block">
+													<a class="link" href="https://dou.ua/lenta/interviews/career-in-uber/?from=hover-news-widget" target="_blank">
+														<img class="img" src="./Справедливый notice period в аутстаффинге _ DOU_files/4a91aaee6f205884a25a3d27a5e87234.jpg" srcset="https://s.dou.ua/img/announces/uber-420_T7PLdf2.jpg 1.1x" alt="Как киевский программист сменил Google на Uber">
+														<div class="title">Как киевский программист сменил Google на&nbsp;Uber</div>
+													</a>
+												</div>
+											</div>
+											<div class="l-sticky-item">
+												<div class="l-sticky-block">
+													<a class="link" href="https://dou.ua/lenta/articles/iframe-is-not-a-shit/?from=hover-news-widget" target="_blank">
+														<img class="img" src="./Справедливый notice period в аутстаффинге _ DOU_files/2d85a71737ca6086e1fd1dc077358652.png" srcset="https://s.dou.ua/img/announces/iframe-420.png 1.1x" alt="Как мы строим платформу для интеграций, или «iFramе is not a sh*t»">
+														<div class="title">Как мы&nbsp;строим платформу для интеграций, или «iFramе is&nbsp;not a&nbsp;sh*t»</div>
+													</a>
+												</div>
+											</div>
+											<div class="l-sticky-item">
+												<div class="l-sticky-block">
+													<a class="link" href="https://dou.ua/lenta/articles/how-to-become-solution-architect/?from=hover-news-widget" target="_blank">
+														<img class="img" src="./Справедливый notice period в аутстаффинге _ DOU_files/dd6f6a86bdfb00d4a6b5b92d886d6e74.jpg" srcset="https://s.dou.ua/img/announces/444_toygH8A.jpg 1.1x" alt="Как дорасти до уровня Solution Architect">
+														<div class="title">Как дорасти до&nbsp;уровня Solution Architect</div>
+													</a>
+												</div>
+											</div>
+											<div class="l-sticky-item">
+												<div class="l-sticky-block">
+													<a class="link" href="https://dou.ua/lenta/articles/dou-hobby-cosplay/?from=hover-news-widget" target="_blank">
+														<img class="img" src="./Справедливый notice period в аутстаффинге _ DOU_files/15035675de1aae23270469c84a8b08ba.jpg" srcset="https://s.dou.ua/img/announces/4_UtoujOE.jpg 1.1x" alt="DOU Hobby: Косплей — игра в костюмы и образы любимых персонажей">
+														<div class="title">DOU Hobby: Косплей&nbsp;— игра в&nbsp;костюмы и&nbsp;образы любимых персонажей</div>
+													</a>
+												</div>
+											</div>
+									</div>
+
+																			<div class="l-sticky-group" style="display: none; position: relative; visibility: visible;">
+										<h3 style="font-size:27px;font-weight:normal;width:240px;margin:0 auto 14px auto;">Цікаві статті</h3>
+
+											<div class="l-sticky-item">
+												<div class="l-sticky-block">
+													<a class="link" href="https://dou.ua/lenta/articles/sweden/?from=hover-news-widget" target="_blank">
+														<img class="img" src="./Справедливый notice period в аутстаффинге _ DOU_files/8637953c63327f157cde56a229f68477.jpg" srcset="https://s.dou.ua/img/announces/shw0sl.jpg 1.1x" alt="Как я приехал в Швецию">
+														<div class="title">Как я&nbsp;приехал в&nbsp;Швецию</div>
+													</a>
+												</div>
+											</div>
+											<div class="l-sticky-item">
+												<div class="l-sticky-block">
+													<a class="link" href="https://dou.ua/lenta/interviews/relocate-to-ireland/?from=hover-news-widget" target="_blank">
+														<img class="img" src="./Справедливый notice period в аутстаффинге _ DOU_files/d5eeeda59f4e5e529a7b89a18fe58b6a.jpg" srcset="https://s.dou.ua/img/announces/420_5ahpvND.jpg 1.1x" alt="О работе в стартапе, неспешной медицине и высоких налогах. История программиста, который вернулся в Украину из Ирландии">
+														<div class="title">О&nbsp;работе в&nbsp;стартапе, неспешной медицине и&nbsp;высоких налогах. История программиста, который вернулся в&nbsp;Украину из&nbsp;Ирландии</div>
+													</a>
+												</div>
+											</div>
+											<div class="l-sticky-item">
+												<div class="l-sticky-block">
+													<a class="link" href="https://dou.ua/lenta/articles/test-task/?from=hover-news-widget" target="_blank">
+														<img class="img" src="./Справедливый notice period в аутстаффинге _ DOU_files/3a8bb8f2ef368447a6352710a63f6d20.png" srcset="https://s.dou.ua/img/announces/4_xsksBwq.png 1.1x" alt="Как подходить к тестовым заданиям: советы от тех, кто их проверяет">
+														<div class="title">Как подходить к&nbsp;тестовым заданиям: советы от&nbsp;тех, кто их&nbsp;проверяет</div>
+													</a>
+												</div>
+											</div>
+											<div class="l-sticky-item">
+												<div class="l-sticky-block">
+													<a class="link" href="https://dou.ua/lenta/articles/feature-toggles-wirex/?from=hover-news-widget" target="_blank">
+														<img class="img" src="./Справедливый notice period в аутстаффинге _ DOU_files/4155d8da85a4d562d1850bd6f9e664eb.png" srcset="https://s.dou.ua/img/announces/Feature_Toggles-3.png 1.1x" alt="Як застосувати динамічну конфігурацію Feature Toggles">
+														<div class="title">Як&nbsp;застосувати динамічну конфігурацію Feature Toggles</div>
+													</a>
+												</div>
+											</div>
+									</div>
+
+
+			<div class="b-similar l-sticky-group" style="display: none; position: relative; visibility: visible;">
+			<div class="l-sticky-item">
+				<h3>Найкраще</h3>
+
+				<ul>
+						<li class="item">
+							<div class="title">
+								<a href="https://dou.ua/lenta/columns/top-architectural-errors/?from=bestwidget" class="link">Топ архітектурних помилок з&nbsp;власного досвіду. Що&nbsp;не&nbsp;варто робити під час проєктування</a>							</div>
+						</li>
+						<li class="item">
+							<div class="title">
+								<a href="https://dou.ua/lenta/articles/new-social-packages-bonuses-of-it-companies/?from=bestwidget" class="link">Пульсоксиметри, безплатне таксі в&nbsp;офіс, няня для дітей. Що&nbsp;нового у&nbsp;соцпакетах і&nbsp;бонусах українських ІТ-компаній</a>							</div>
+						</li>
+						<li class="item">
+							<div class="title">
+								<a href="https://dou.ua/lenta/columns/devops-and-marketing/?from=bestwidget" class="link">Как практики DevOps могут влиять на&nbsp;продажи и&nbsp;маркетинг</a>							</div>
+						</li>
+						<li class="item">
+							<div class="title">
+								<a href="https://dou.ua/lenta/articles/paternity-leave-for-men/?from=bestwidget" class="link">Декрет для чоловіків. Як&nbsp;IT-спеціалісти брали місяць відпустки для догляду за&nbsp;дитиною та&nbsp;чи&nbsp;це&nbsp;того варте</a>							</div>
+						</li>
+						<li class="item">
+							<div class="title">
+								<a href="https://dou.ua/lenta/articles/belarusian-it-companies-in-ukraine/?from=bestwidget" class="link">«Політична ситуація пришвидшила вихід на&nbsp;місцевий ринок». Як&nbsp;білоруські IT-компанії відкривали офіси в&nbsp;Україні</a>							</div>
+						</li>
+						<li class="item">
+							<div class="title">
+								<a href="https://dou.ua/lenta/columns/about-interviews-and-job-searches/?from=bestwidget" class="link">Определите ожидания, фильтруйте речь и&nbsp;не&nbsp;отзывайтесь плохо о&nbsp;коллегах. О&nbsp;стратегии поиска новой работы</a>							</div>
+						</li>
+						<li class="item">
+							<div class="title">
+								<a href="https://dou.ua/lenta/interviews/wintering-in-dominican-republic/?from=bestwidget" class="link">IT-зимівля в&nbsp;Домінікані. Як&nbsp;облаштуватися, ефективно працювати і&nbsp;встигати жити</a>							</div>
+						</li>
+						<li class="item">
+							<div class="title">
+								<a href="https://dou.ua/lenta/columns/cant-work-to-rest/?from=bestwidget" class="link">Работать нельзя отдыхать. Почему трудоголизм в&nbsp;IT вреден и&nbsp;что делать, чтобы не&nbsp;перерабатывать</a>							</div>
+						</li>
+						<li class="item">
+							<div class="title">
+								<a href="https://dou.ua/lenta/articles/project-managers-portrait/?from=bestwidget" class="link">Project Manager в&nbsp;IT: хто він та&nbsp;скільки заробляє. Аналітика DOU</a>							</div>
+						</li>
+						<li class="item">
+							<div class="title">
+								<a href="https://dou.ua/lenta/columns/from-qa-to-backend-dev/?from=bestwidget" class="link">Как перейти из&nbsp;тестирования в&nbsp;разработку и&nbsp;дорасти до&nbsp;Senior. Советы из&nbsp;личного опыта</a>							</div>
+						</li>
+
+						<li class="item" style="padding-top:.5em;font-weight:bold;">
+							<div class="title">
+								<a href="https://dou.ua/lenta/best/?from=bestwidget" class="link">Все найкраще</a>
+							</div>
+						</li>
+				</ul>
+			</div>
+		</div>
+
+							</div>
+						</div>
+				</aside>
+				<div class="cell"></div>
+		</div>
+	</div>
+
+	</div>
+
+<footer class="b-footer">
+	<div class="l-content m-db">
+		<div class="l-content-wrap m-db">
+			<div class="col2 m-hide"></div>
+			<div class="col18 m-db">
+				© 2005—2021 <strong><a href="https://dou.ua/">DOU.ua</a></strong>
+				<p class="footer-lang-switch">
+							<strong>Українська</strong>
+·							<a href="https://dou.ua/forums/topic/33060/?switch_lang=ru" rel="nofollow">Русский</a>
+·							<a href="https://dou.ua/forums/topic/33060/?switch_lang=en" rel="nofollow">English</a>
+				</p>
+			</div>
+
+			<div class="col2 m-hide"></div>
+
+			<div class="col50 m-cola m-db">
+				<div class="social">
+							<span class="regcount"><a href="https://dou.ua/users/">Нас уже 425 208</a>.</span>
+					Ми в соцмережах:
+					<a href="https://www.facebook.com/devua"><img src="./Справедливый notice period в аутстаффинге _ DOU_files/facebook.svg" width="19" height="19"></a>
+					<a href="https://twitter.com/devua"><img src="./Справедливый notice period в аутстаффинге _ DOU_files/twitter.svg" width="19" height="19"></a>
+					<a href="https://github.com/devua/csv"><img src="./Справедливый notice period в аутстаффинге _ DOU_files/github.svg" width="19" height="19"></a>
+					<a href="https://dou.ua/telegram/"><img src="./Справедливый notice period в аутстаффинге _ DOU_files/telegram.svg" width="19" height="19"></a>
+					<a href="https://www.youtube.com/channel/UC6If-LcFxUDJhgL9dmB8oMA"><img src="./Справедливый notice period в аутстаффинге _ DOU_files/youtube.svg" style="width:23px;height:23px;top:0;" width="23" height="23"></a>
+				</div>
+
+				<div class="m-hide">
+						<a href="http://djinni.co/developers/?from=dou-footer" target="_blank" rel="noopener">Пошук програмістів на Джині</a>
+				</div>
+			</div>
+
+			<div class="col2 m-hide"></div>
+
+			<div class="col24 m-db m-cola">
+				<ul class="links">
+					<li><a href="https://dou.ua/contacts/">Контакти</a></li>
+					<li><a href="https://dou.ua/adv/">Реклама</a></li>
+					<li><a href="https://dou.ua/legal/">Legal</a></li>
+				</ul>
+
+					Пишіть нам на <a href="mailto:support@dou.ua">support@dou.ua</a>
+			</div>
+
+			<div class="col2 m-hide"></div>
+		</div>
+	</div>
+</footer>
+			<div class="modal-wrap">
+	<div class="modal-screen"></div>
+	<div id="_loginDialog" class="b-login-dialog">
+		<div class="head">
+			<h1 class="title">Cкористайтесь аккаунтом</h1>
+			<div class="close cancel">×</div>
+		</div>
+
+		<div class="border">
+			<div class="step1">
+					<ul class="b-login-buttons">
+		<li>
+			<a class="button-link" href="javascript:;" l="/login/google-oauth2/" id="btnGoogle">
+				<div class="login-button btnGoogle">
+					<div class="layer"></div>
+				</div>
+				<div class="link">Google</div>
+			</a>
+		</li>
+		<li>
+			<a class="button-link" href="javascript:;" l="/login/linkedin-oauth2/" id="btnLinkedIn">
+				<div class="login-button btnLin">
+					<div class="layer"></div>
+				</div>
+				<div class="link">LinkedIn</div>
+			</a>
+		</li>
+		<li>
+			<a class="button-link" href="javascript:;" l="/login/github/" id="btnLoginGitHub">
+				<div class="login-button btnLoginGitHub">
+					<div class="layer"></div>
+				</div>
+				<div class="link">GitHub</div>
+			</a>
+		</li>
+		<li>
+			<a class="button-link" href="javascript:;" l="/login/facebook/" id="btnFb">
+				<div class="login-button btnFb">
+					<div class="layer"></div>
+				</div>
+				<div class="link">Facebook</div>
+			</a>
+		</li>
+	</ul>
+
+	<div class="alt-login-method">Увійти <a id="_loginByMail" href="javascript:;">по пошті</a> або <a href="javascript:;" l="/login/twitter/" id="btnTw">твіттеру</a>.
+	</div>
+
+			</div>
+			<div class="step2" style="display: none;">
+				<ul class="b-content-menu">
+					<li class="sel" nav="login">
+						<div class="text wrap">
+							<span>Вхід</span>
+							<b class="l"></b>
+							<b class="c"></b>
+							<b class="r"></b>
+						</div>
+					</li>
+					<li nav="register">
+						<div class="wrap">
+							<a href="javascript:;">Реєстрація</a>
+						</div>
+					</li>
+					<li nav="reset"><div class="wrap"><a href="javascript:;">Відновлення пароля</a></div></li>
+				</ul>
+					<div class="login view">
+		<div class="b-form">
+			<div class="table form-section">
+				<div class="colgroup">
+		<div class="col-130px"></div>
+		<div class="col-auto"></div>
+	</div>
+				<div class="row class">
+		<div class="cell"><label class="input-label" for="">Пошта</label></div>
+		<div class="cell">
+			<div class="input">
+				<input type="text" name="username" value="" class="first txtEmail">
+			</div>
+			
+		</div>
+	</div>
+				<div class="row class">
+					<div class="cell"><label class="input-label">Пароль</label></div>
+					<div class="cell">
+						<div class="input">
+							<input type="password" class="txtPassword" value="" name="password">
+						</div>
+						<div id="wrong-password-message">Неправильний пароль</div>
+					</div>
+				</div>
+			</div>
+			<div class="table button-section">
+				<div class="colgroup">
+		<div class="col-130px"></div>
+		<div class="col-auto"></div>
+	</div>
+				<div class="row">
+					<div class="cell"></div>
+					<div class="cell">
+						<div class="little-loading"></div>
+						<button class="big-button btnSubmit">Увійти</button>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+					<div style="display:none;" class="register view">
+		<div class="table form-section">
+			<div class="message-closed">Реєстрацію по email закрито</div>
+		</div>
+	</div>
+
+					<div style="display:none;" class="reset view">
+		<div class="b-form">
+
+			<div class="table form-section">
+				<div class="colgroup">
+		<div class="col-130px"></div>
+		<div class="col-auto"></div>
+	</div>
+
+				<div class="row class">
+		<div class="cell"><label class="input-label" for="">Пошта</label></div>
+		<div class="cell">
+			<div class="input">
+				<input type="email" name="username" value="" class="first txtEmail">
+			</div>
+			
+		</div>
+	</div>
+			</div>
+
+			<div class="table button-section">
+				<div class="colgroup">
+		<div class="col-130px"></div>
+		<div class="col-auto"></div>
+	</div>
+				<div class="row">
+					<div class="cell"></div>
+					<div class="cell">
+						<div class="little-loading"></div>
+						<button class="big-button btnSubmit">Скинути пароль</button>
+						<div class="error-msg">
+							<div class="bg"></div>
+							<div class="txt">Ви неправильно вказали свою пошту</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+				<div class="alt-login-method">Або <a id="_loginBySN" href="javascript:;">скористайтесь аккаунтом</a>.</div>
+			</div>
+				<div class="add-email" style="display:none;">
+		<div class="message" style="font-size:14px;margin-left:16px;margin-bottom:15px;">
+			Для того, щоб зробити ваш профіль повноцінним, вкажіть вашу пошту.<br>
+			Ми відправимо вам лист з посиланням для підтвердження.
+		</div>
+		<div class="b-form">
+			<form method="POST">
+				<div class="table form-section">
+					<div class="colgroup">
+		<div class="col-130px"></div>
+		<div class="col-auto"></div>
+	</div>
+
+					<div class="row class">
+		<div class="cell"><label class="input-label" for="">Пошта</label></div>
+		<div class="cell">
+			<div class="input">
+				<input type="email" name="email" value="" class="first txtEmail">
+			</div>
+			
+		</div>
+	</div>
+				</div>
+<input type="hidden" name="csrfmiddlewaretoken" value="Xd64N0bk79MZL8yroC5udNnb7knjql46rsClvgrQ4OvLcffLltquUwVVHzRFBzjf">			</form>
+
+			<div class="table button-section">
+				<div class="colgroup">
+		<div class="col-130px"></div>
+		<div class="col-auto"></div>
+	</div>
+				<div class="row">
+					<div class="cell"></div>
+					<div class="cell b-buttons">
+						<div class="little-loading"></div>
+						<button class="big-button btnSubmit">Зберегти</button>
+						<div class="error-msg">
+							<div class="bg"></div>
+							<div class="txt">Ви неправильно вказали свою пошту</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+			<div class="agreement">
+				<label><input checked="" type="checkbox" id="agree-checkbox"> я згоден(-на)</label> з <a href="https://dou.ua/legal/" target="_blank">умовами використання сайту</a> і <a href="https://dou.ua/privacy/" target="_blank">політикою конфіденційності</a>.
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+<script type="text/javascript" src="./Справедливый notice period в аутстаффинге _ DOU_files/built.v2198.e4f97d3.js.завантаження"></script>
+
+		<script type="text/javascript" src="./Справедливый notice period в аутстаффинге _ DOU_files/built.v2198.059efce.js.завантаження"></script>
+
+
+	<script>
+		window.CSRF_TOKEN = "FYGGFBvtNhO0dfo0WafQGJFITqTbkAaI9dcXnRLZKWxMEm5kT1AQnsdstFnxvOpR";
+		window.LOGIN_URL = "https://dou.ua/ajax-login/";
+		window.RESET_PASSWORD_URL = "https://dou.ua/j-lost-password/";
+		window.USER_ID = 0;
+		window.IS_MOBILE = "False";
+		window.IS_TABLET = "False";
+		window.LANG = "uk";
+
+				window.loginManager = new LoginManager();
+
+				function loginshow() {
+					window.loginManager.showLogin({
+						success: function() {
+							window.location.reload();
+						},
+					});
+					return false;
+				}
+
+				$("#login-link").click(loginshow);
+
+			$("#max-header-close-id").click(function(e) {
+				$.cookie("max-header-646", 1, { expires: 1, path: "/" });
+				$(this).parent().slideUp(200);
+			});
+
+	$("#topinfo-close").click(function(e) {
+		$.cookie("topinfo-477", 1, { expires: 1, path: "/", domain: '.dou.ua' });
+		$("#topinfo").slideUp(150);
+		return false;
+	});
+
+	window.COMMENTS_COUNT = 73;
+	var commentsManager = new CommentsManager();
+	new StarLikeManager();
+
+			new FlowRightSideManager();
+
+
+
+			if (impressions.length) {
+				$.post('/ajax-impressions-track/', {
+					'csrfmiddlewaretoken': window.CSRF_TOKEN,
+					'impressions': JSON.stringify(impressions)
+				});
+			}
+	</script>
+
+
+
+
+</body></html>

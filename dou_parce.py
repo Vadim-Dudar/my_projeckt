@@ -10,15 +10,28 @@ class Parce():
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
     }
 
-    def __init__(self ,url , params=None):
+    def __init__(self ,url ,params=None ,act='o'):
+        """
+        :type url: str
+        :type params: str
+        :param act: 'o' it's a public site, 'l' it's local .html file
+        :type act: str
+        """
         self.url = url
         self.params = params 
+        self.act = act
 
     def html(self, url, params=None, headers=HEADERS):
+        """
+        get response
+        """
         r = requests.get(url, headers=headers, params=params)
         return r
 
     def content(self, html):
+        """
+        get commetns from page
+        """
         soup = bs(html, 'html.parser')
         content = soup.find_all('div', class_='b-comment level-0')
 
@@ -33,20 +46,24 @@ class Parce():
         return(comments)
 
     def json(self, content):
+        """
+        write all files to .json file
+        """
         with open('sample.json', 'w', encoding='utf-8') as f:
             json.dump(content, f, ensure_ascii=False)
 
     def parce(self):
-        html = self.html(self.url)
-        if html.status_code == 200:
-            content = self.content(html.text)
-            self.json(content)
-        else:
-            print('Something wrong🤷‍♂️')
-    
-    def parce_page(self, page):
-        pass
+        if self.act == 'o':
+            html = self.html(self.url)
+            if html.status_code == 200:
+                content = self.content(html.text)
+                self.json(content)
+            else:
+                print('Something wrong🤷‍♂️')
+        elif self.act == 'l':
+            f = open(self.url)
+            print(f.read())
 
 
-dou = Parce('https://dou.ua/forums/topic/33060/')
+dou = Parce('index.txt', None, 'l')
 dou.parce()
