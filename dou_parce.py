@@ -10,12 +10,12 @@ class Parce():
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
     }
 
-    def __init__(self ,URL, params=None):
-        self.url = URL
+    def __init__(self ,url , params=None):
+        self.url = url
         self.params = params 
 
-    def html(self, url, params=None, HEADERS=HEADERS):
-        r = requests.get(url, headers=HEADERS, params=params)
+    def html(self, url, params=None, headers=HEADERS):
+        r = requests.get(url, headers=headers, params=params)
         return r
 
     def content(self, html):
