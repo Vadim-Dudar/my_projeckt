@@ -32,7 +32,7 @@ class Parce():
             })
         return(comments)
 
-    def do_json(self, content):
+    def json(self, content):
         with open('sample.json', 'w', encoding='utf-8') as f:
             json.dump(content, f, ensure_ascii=False)
 
@@ -40,7 +40,7 @@ class Parce():
         html = self.html(self.url)
         if html.status_code == 200:
             content = self.content(html.text)
-            self.do_json(content)
+            self.json(content)
         else:
             print('Something wrong🤷‍♂️')
 
