@@ -1,14 +1,6 @@
-class name():
-   str = 'name'
-class Human(name):
-   def __init__(self, name, surename):
-     self.name = name
-     self.surename = surename
+from bs4 import BeautifulSoup as bs
 
-   def do(self):
-      def q():
-         print(123)
-      q()
 
-dudar = Human('Vadim', 'Dudar')
-dudar.do()
+f = open('index.html', 'r')
+html = f.read()
+soup = bs(html, 'lxml')
