@@ -5,5 +5,10 @@ class Human(name):
      self.name = name
      self.surename = surename
 
+   def do(self):
+      def q():
+         print(123)
+      q()
+
 dudar = Human('Vadim', 'Dudar')
-print(dudar.name)
+dudar.do()

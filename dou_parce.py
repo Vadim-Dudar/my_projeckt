@@ -14,11 +14,11 @@ class Parce():
         self.url = URL
         self.params = params 
 
-    def html(self, params=None, HEADERS=HEADERS):
-        r = requests.get(self.url, headers=HEADERS, params=params)
+    def html(self, url, params=None, HEADERS=HEADERS):
+        r = requests.get(url, headers=HEADERS, params=params)
         return r
 
-    def content(html):
+    def content(self, html):
         soup = bs(html, 'html.parser')
         content = soup.find_all('div', class_='b-comment level-0')
 
@@ -27,23 +27,23 @@ class Parce():
             comments.append({
                 'name': comment.find('a', class_='avatar').get_text().strip(),
                 'text': comment.find('div', class_='comment_text b-typo').get_text().strip(),
-                'photo': comment.find('img', class_='g-avatar').get('scr').strip(),
+                'photo': comment.find('img', class_='g-avatar').get('scr'),
                 'time': comment.find('a', class_='comment-link').get_text().strip(),
             })
-        print(comments)
         return(comments)
 
-    def do_json():
-        pass
+    def do_json(self, content):
+        with open('sample.json', 'w', encoding='utf-8') as f:
+            json.dump(content, f, ensure_ascii=False)
 
     def parce(self):
-        html = html(self.url)
+        html = self.html(self.url)
         if html.status_code == 200:
-            content = content(html.text)
-            print(content)
+            content = self.content(html.text)
+            self.do_json(content)
         else:
             print('Something wrong🤷‍♂️')
 
 
 dou = Parce('https://dou.ua/forums/topic/33060/')
-dou.content(dou.html().text)
+dou.parce()
