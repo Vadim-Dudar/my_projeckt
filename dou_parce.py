@@ -10,16 +10,13 @@ class Parce():
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
     }
 
-    def __init__(self ,url ,params=None ,act='o'):
+    def __init__(self ,url ,params=None :
         """
         :type url: str
         :type params: str
-        :param act: 'o' it's a public site, 'l' it's local .html file
-        :type act: str
         """
         self.url = url
         self.params = params 
-        self.act = act
 
     def html(self, url, params=None, headers=HEADERS):
         """
