@@ -52,18 +52,19 @@ class Parce():
         with open('sample.json', 'w', encoding='utf-8') as f:
             json.dump(content, f, ensure_ascii=False)
 
-    def parce(self):
-        if self.act == 'o':
+    def parce(self, act='o'):
+        if act == 'o':
             html = self.html(self.url)
             if html.status_code == 200:
                 content = self.content(html.text)
                 self.json(content)
             else:
                 print('Something wrong🤷‍♂️')
-        elif self.act == 'l':
+        elif act == 'l':
             f = open(self.url)
-            print(f.read())
+            content = self.content(f)
+            self.json(content)
 
 
-dou = Parce('index.txt', None, 'l')
-dou.parce()
+dou = Parce('index.html')
+dou.parce('l')
