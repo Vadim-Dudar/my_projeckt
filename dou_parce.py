@@ -10,7 +10,7 @@ class Parce():
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
     }
 
-    def __init__(self ,url ,params=None :
+    def __init__(self ,url ,params=None):
         """
         :type url: str
         :type params: str
@@ -64,4 +64,4 @@ class Parce():
 
 
 dou = Parce('index.html')
-dou.parce('l')
+dou.parce('o')
